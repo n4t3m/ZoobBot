@@ -22,7 +22,7 @@ namespace ShitpostBot
 
             Handler = new CommandHandler();
 
-            await Client.LoginAsync(Discord.TokenType.Bot, "NTkyOTUyOTMzMzI3NDM3ODI4.XRJ3Qg.lNy8wZNwkpixxqUloOKNB6yIR0Q", true);
+            await Client.LoginAsync(Discord.TokenType.Bot, "", true);
 
             await Client.StartAsync();
 
@@ -47,9 +47,10 @@ namespace ShitpostBot
         private async Task MessageReceived(SocketMessage message)
         {
             Console.WriteLine("Method Called");
+            string str = message.Content;
+            Console.WriteLine(str);
             if (message.Content == "hi")
             {
-                Console.WriteLine("Evaluate to True");
                 await message.Channel.SendMessageAsync("Hello!");
             }
         }
