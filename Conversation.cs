@@ -21,12 +21,16 @@ $"Hello, I am a bot called {Context.Client.CurrentUser.Username} written in Disc
 
         [Command("copypasta")]
         [Alias("copypasta list")]
-        public Task CopypastaList() => ReplyAsync($"List:\n" +
+        public Task CopypastaList() => ReplyAsync($"**Use all Lowercase Letters**\n" +
+            $"List:\n" +
             $"Coochie (Trans Pussy)\n" +
             $"Navy Seal\n" +
             $"Airpods\n" +
             $"Bathroom Scale\n" +
-            $"Megalovania\n");
+            $"Megalovania\n" +
+            $"Hit Or Miss\n" +
+            $"Family Fued\n" +
+            $"Adam\n");
 
         [Command("copypasta coochie")]
         public Task Coochie() => ReplyAsync($"I'm trying😢 to get me some trans🤖 pussy 😺💦. Like shit💩 it ain't natural🌱but that coochie😛💦 be custom👌built🤖. Probably got some 🤟velvet 😍heated🔥interiors. Auto 😤lavender-scented🌸 lube dispensers💦 so that coochie😺 staying wet🌊 but not smelling🤢 like a zoo. Little robo🤖 hands🙌 that reach👋out and cradle🤲😍 your balls🏀⚾ while you hamming🔨 on that pseudo-snatch. A drain💧 vacuum for all👍the nuts🍆💦 you blast💥in there so you ain't🌀🌪️stirring your own porridge🥣 for round 2🤢. You guys🙎‍♂️be hating😪on trans🌈 people, even😮during their own🌗month, but there's all🌟kinds of potential there. Fuck💢all that normal🤢sloppy coochie, get yourself some trans🤖super💥 coochie. They're called🌈 trans because that😺 pussy be transforming👾your life.\n");
@@ -42,6 +46,15 @@ $"Hello, I am a bot called {Context.Client.CurrentUser.Username} written in Disc
 
         [Command("copypasta megalovania")]
         public Task Megalovania() => ReplyAsync($"Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun Dun dun da dun, dun dun dun dun dunna.Dun dun da dun, dun Dun dun da dun, dun dun dun dun dunna.dun dun Dun dun da dun, dun Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun Dun dun da dun, dun dun dun dun dunna.Dun dun da dun, dun Dun dun da dun, dun dun dun dun dunna.dun dun Dun dun da dun, dun Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun Dun dun da dun, dun dun dun dun dunna.Dun dun da dun, dun Dun dun da dun, dun dun dun dun dunna.dun dun Dun dun da dun, dun Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun Dun dun da dun, dun dun dun dun dunna.Dun dun da dun, dun Dun dun da dun, dun dun dun dun dunna.dun dun Dun dun da dun, dun Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun dunna. Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun Dun dun da dun, dun dun dun dun dunna.Dun dun da dun, dun Dun dun da dun, dun dun dun dun dunna.dun dun Dun dun da dun, dun Dun dun da dun, dun dun dun dun Dun dun da dun, dun dun dun dun dunna.\n");
+
+        [Command("copypasta adam")]
+        public Task Adam() => ReplyAsync($"Hiii! my name is adam xDD im 12 yrs youngg. im takenn (((: happily by my 15 yrs youngg gf amy. shes my everything<33333 but i still flirt with all the girls in my class ;) shh. ;x i go to parties every sat. and party st church on sunday, holaaahh! hahaha, i love jesus, but idk i might be atheist. im bisexual but i’ll never touch another boy because it’s a sin ;( i do weed and i luv lil wayne, and the jonas brothers. i h8 black ppl because they scare me. follow me ok?!!?! =D\n");
+
+        [Command("copypasta hit or miss")]
+        public Task HitOrMiss() => ReplyAsync($"To hit, or not to hit. Dost thou ever miss? I suppose it not. You have a male love interest, yet I would wager he does not kiss thee (Ye olde mwah). Furthermore; he will find another lass like he won't miss thee. And at the end of it all. He is going to skrrt, and he will hit that dab, as if he were the man known by the name of Wiz Khalifa\n");
+
+        [Command("copypasta family fued")]
+        public Task FamilyFued() => ReplyAsync($"Steve Harvey: We asked 100 people, what is the male reproductive organ ?  Contestant: The penis SH: A WUH... HUH ??  audience erupts into laughter Steve Harvey grabs onto podium to support himself laughter gets even louder SH: O lordy... one man goes into cardiac arrest and many others begin vomiting profusely from laughing too hard SH: YOU PEOPLE NEED HELP the Earth shatters and Satan rises from the underworld to claim unworthy souls the universe begins rapidly closing in on itself SH: (putting on a weary voice) Survey says... the board shows 100 for penis Harvey is able to get off one more shocked look before existence as we know it comes to an end\n");
 
         //[Command("copypasta coochie")]
         //public Task Coochie() => ReplyAsync($"\n");
