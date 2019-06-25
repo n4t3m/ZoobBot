@@ -1,0 +1,11 @@
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\bin\Debug\netcoreapp2.1\ShitpostBot.deps.json
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\bin\Debug\netcoreapp2.1\ShitpostBot.runtimeconfig.json
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\bin\Debug\netcoreapp2.1\ShitpostBot.runtimeconfig.dev.json
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\bin\Debug\netcoreapp2.1\ShitpostBot.dll
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.AssemblyInfoInputs.cache
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.AssemblyInfo.cs
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\bin\Debug\netcoreapp2.1\ShitpostBot.pdb
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.csprojAssemblyReference.cache
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.dll
+C:\Users\Nathan Melwani\Desktop\New folder\ShitpostBot\obj\Debug\netcoreapp2.1\ShitpostBot.pdb

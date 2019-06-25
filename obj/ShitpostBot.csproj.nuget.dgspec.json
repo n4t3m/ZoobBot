@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nathan Melwani\\Desktop\\New folder\\ShitpostBot\\ShitpostBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nathan Melwani\\Desktop\\New folder\\ShitpostBot\\ShitpostBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nathan Melwani\\Desktop\\New folder\\ShitpostBot\\ShitpostBot.csproj",
+        "projectName": "ShitpostBot",
+        "projectPath": "C:\\Users\\Nathan Melwani\\Desktop\\New folder\\ShitpostBot\\ShitpostBot.csproj",
+        "packagesPath": "C:\\Users\\Nathan Melwani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nathan Melwani\\Desktop\\New folder\\ShitpostBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nathan Melwani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
