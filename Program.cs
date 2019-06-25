@@ -48,10 +48,31 @@ namespace ShitpostBot
         {
             Console.WriteLine("Method Called");
             string str = message.Content;
-            Console.WriteLine(str);
+
             if (message.Content == "hi")
             {
                 await message.Channel.SendMessageAsync("Hello!");
+            }
+
+            if (str.Contains("I'm"))
+            {
+                Console.WriteLine(str.IndexOf("I'm"));
+                String Name = "";
+                int temp = str.IndexOf("I'm");
+                if(temp+5<str.Length)
+                {
+                    for(int i=temp+4; i<str.Length; i++)
+                    {
+                        Name += str[i];
+                    }
+
+                    if (!Name.Contains("I'm"))
+                    {
+                        await message.Channel.SendMessageAsync("Hello " + Name + ", I am Zoob Bot!");
+                    }
+
+                }
+
             }
         }
 
