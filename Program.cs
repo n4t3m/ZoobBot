@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Discord;
 using Discord.WebSocket;
+using ShitpostBot.Helpers;
 
 namespace ShitpostBot
 {
@@ -29,7 +30,10 @@ namespace ShitpostBot
             await Handler.Install(Client);
 
             Client.MessageReceived += MessageReceived;
+            Client.UserJoined += UserJoined;
             Client.Log += Log;
+            Client.UserIsTyping += UserIsTyping;
+            //Client.MessageUpdated += MessageUpdated;
 
             Client.Ready += Client_Ready;
             await Task.Delay(-1);
@@ -39,6 +43,7 @@ namespace ShitpostBot
         private async Task Client_Ready()
         {
             Console.WriteLine("SHITPOST BOT REPORTING FOR DUTY!");
+            await Client.SetGameAsync("Discord Hack Week!");
             return;
 
         }
@@ -52,6 +57,11 @@ namespace ShitpostBot
             if (message.Content == "hi")
             {
                 await message.Channel.SendMessageAsync("Hello!");
+            }
+
+            if (str.Contains("fuck") || str.Contains("shit") || str.Contains("tits") || str.Contains("dick") || str.Contains("bitch") || str.Contains("bastard") || str.Contains("damn") || str.Contains("cunt") || str.Contains("wanker") || str.Contains("cunt") || str.Contains("wanker")  || str.Contains("penis") || str.Contains("frick")  || str.Contains("cock") || str.Contains("Brian Liu")  || str.Contains("hell") || str.Contains("nigga") || str.Contains("pussy"))
+            {
+                await message.Channel.SendMessageAsync("**THERE WILL BE NO FUCKING CURSING ON THIS MINECRAFT. DISCORD. SERVER.** https://i.imgur.com/RUdPyQP.jpg");
             }
 
             if (str.Contains("I'm"))
@@ -75,6 +85,31 @@ namespace ShitpostBot
 
             }
         }
+
+        private async Task UserJoined(SocketGuildUser user)
+        {
+            string username = user.Username;
+            await user.SendMessageAsync("Welcome to Zoob Bot " + username);
+        }
+
+        private async Task UserIsTyping(SocketUser u, ISocketMessageChannel m)
+        {
+            int random = new Random().Next(0, 10);
+            string username = u.Username;
+            if (random == 5)
+            {
+                await m.SendMessageAsync("*Watcha typin " + username + "? ( ͡° ͜ʖ ͡°)*");
+            }
+        }
+
+        //private async Task MessageUpdated(Cacheable<IMessage, ulong> before, SocketMessage after, ISocketMessageChannel channel)
+        //{
+         //   //SocketUser u = new SocketUser();
+          //  var message = await before.GetOrDownloadAsync();
+           // Console.WriteLine($"{message} -> {after}");
+            //await SendMessageAsync($"A message has been updated!! NOTHING SNEAKS PAST THE ZOOB. THE ZOOB IS ALL SEEING. {message} -> {after}");
+       // }
+
 
         private Task Log(LogMessage msg)
         {
