@@ -1,4 +1,5 @@
-﻿using Discord.Commands;
+﻿using Discord;
+using Discord.Commands;
 using Discord.WebSocket;
 using System;
 using System.Collections.Generic;
@@ -60,16 +61,18 @@ namespace ShitpostBot
         [Command("help")]
         public async Task Help()
         {
-            await ReplyAsync($"**Zoob Bot Commnands List\n" +
+            await ReplyAsync($"**Zoob Bot Commnands List**\n" +
                 $"!ping : Checks Zoom Bot's Ping.\n" +
                 $"!info : Provides Information About Zoom Bot\n" +
                 $"!kick : Kicks a user from the server.\n" +
                 $"!ban  : Bans a user from the server.\n" +
-                $"!copypasta : Shows a list of copypastas. Open a copypasta by typing !copypasta <name of copypasta> **Make sure the letters are lowercase!\n" +
+                $"!copypasta : Shows a list of copypastas. Open a copypasta by typing !copypasta <name of copypasta> **Make sure the letters are lowercase!**\n" +
                 $"!kiss <user> : Kiss a friend!\n" +
                 $"!slap <user> : Slaps a bruh!\n" +
                 $"!hug <user> : Hugs a friend!\n" +
-                $"!poke <user> : Pokes a dood!\n");
+                $"!poke <user> : Pokes a dood!\n" +
+                $"!roast <user> : Roasts a user!\n" +
+                $"!Ply_Rus <user> <number> : Play Russian Roulette with your friends! Use the command, tag a friend you want to put under preasure, and a number. This number will be used as the roof, or a high number, from a random selection which will determine which number is hte bullet. The smallest number and highest chance to die that you can enter is 1. The higher the number, the more about of blanks, and a higher chance to live!\n");
         }
 
     }
