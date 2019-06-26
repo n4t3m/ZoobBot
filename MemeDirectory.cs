@@ -12,21 +12,22 @@ namespace ShitpostBot
     {
         
         [Command("memelist")]
-        [Alias("meme list")]
+        [Alias("meme list", "meme directory")]
         public async Task MemeList()
         {
             await ReplyAsync($"**Zoob Bot Memes List**\n" +
-                $"Dank Memes\n" +
+                $"Dank\n" +
                 $"Memes\n" +
                 $"Wholesome\n" +
                 $"History\n" +
                 $"DeepFried\n" +
                 $"HydroHomies\n" +
-                $"MeIRL\n" +
+                $"Me_irl\n" +
                 $"Anime\n" +
                 $"Garfield\n" +
                 $"PCMR\n" +
-                $"Discord\n");
+                $"Discord\n" +
+                $"SocialAnxiety\n");
         }
 
     }
