@@ -741,6 +741,892 @@ namespace ShitpostBot
             await ReplyAsync($"THats downtown Darius \n https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjtz5LJs4rjAhXXuZ4KHVGeDHwQjRx6BAgBEAU&url=http%3A%2F%2Felohell.net%2Fchill%2F239931%2Fdunking-darius&psig=AOvVaw2S3i61KhLHUYnciEz09RPd&ust=1561750336843242");
 
         }
+
+        [Command("Diana")]
+        public async Task Diana()
+        {
+            await ReplyAsync($"rito pls this champion sucks");
+
+        }
+
+        [Command("DrMundo")]
+        public async Task DrMundo()
+        {
+            await ReplyAsync($"http://st.elohell.net/public/chill/082d561668ca0ed047185bc3d65d9469.jpg");
+
+        }
+
+        [Command("Draven")]
+        public async Task Draven()
+        {
+            await ReplyAsync($"https://cdn.vox-cdn.com/thumbor/ymKo0gtWL_vplt6yiWvBRMT7kto=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10003495/Screenshot_2018_01_09_10.53.36.png");
+
+        }
+
+        [Command("ekko")]
+        public async Task Ekko()
+        {
+            await ReplyAsync($"https://media.giphy.com/media/l0HlOdyGudJClwLgk/giphy.gif");
+
+        }
+
+        [Command("elise")]
+        public async Task Elise()
+        {
+            await ReplyAsync($"this bitch needs a nerf");
+
+        }
+
+        [Command("evelynn")]
+        public async Task girlwithtits()
+        {
+            await ReplyAsync($"atleast she is wearing more clothes than zyra");
+
+        }
+
+        [Command("ezreal")]
+        public async Task ezreal()
+        {
+            await ReplyAsync($"*You belong in a museum!*");
+
+        }
+
+        [Command("fiddlesticks")]
+        public async Task Surprise()
+        {
+            await ReplyAsync($"SURPRISE!!");
+
+        }
+
+        [Command("fiora")]
+        public async Task Fiora()
+        {
+            await ReplyAsync($"one two tree four you're fucking dead idiot");
+
+        }
+
+        [Command("fizz")]
+        public async Task Fizz()
+        {
+            await ReplyAsync($"lmao i never die");
+
+        }
+        [Command("Galio")]
+        public async Task Galio()
+        {
+            await ReplyAsync($"*chonkers*\n https://thumbs.gfycat.com/ElaborateGlitteringCarp-size_restricted.gif");
+
+        }
+
+        [Command("gangplank")]
+        public async Task Gangplank()
+        {
+            await ReplyAsync($"lol you thought i was dead. GUESS NOT BITCH");
+
+        }
+
+        [Command("garen")]
+        public async Task garen()
+        {
+            await ReplyAsync($"Garen Gameplay Guide\n https://i.pinimg.com/originals/3f/3c/60/3f3c6000540d6feab5e8442f25fb7c60.jpg");
+
+        }
+
+        [Command("gnar")]
+        public async Task Gnar()
+        {
+            await ReplyAsync($"I saw a porno with this guy");
+
+        }
+
+        [Command("gragas")]
+        public async Task Gragas()
+        {
+            await ReplyAsync($"im one fat mf");
+
+        }
+
+        [Command("graves")]
+        public async Task Graves()
+        {
+            await ReplyAsync($"#ritoplsbringbackoldgraves");
+
+        }
+
+        [Command("hecarim")]
+        public async Task Hecarim()
+        {
+            await ReplyAsync($"Look at my horse, my horse is amazing");
+
+        }
+
+        [Command("Heimerdinger")]
+        public async Task Heimerdinger()
+        {
+            await ReplyAsync($"tjjjorbornnnn");
+
+        }
+
+        [Command("Illaoi")]
+        public async Task Illaoi()
+        {
+            await ReplyAsync($"Tentacle Henta*");
+
+        }
+
+        [Command("Irelia")]
+        public async Task Irelia()
+        {
+            await ReplyAsync($"GBAY");
+
+        }
+
+        [Command("Ivern")]
+        public async Task GIvern()
+        {
+            await ReplyAsync($"Friend of the forest");
+
+        }
+
+        [Command("Janna")]
+        public async Task Janna()
+        {
+            await ReplyAsync($"egrill time bois");
+
+        }
+
+        [Command("JarvarnIV")]
+        public async Task JarvarnIV()
+        {
+            await ReplyAsync($"i will now erect a wall");
+
+        }
+
+        [Command("Jax")]
+        public async Task Jax()
+        {
+            await ReplyAsync($"hashinshin\nhttps://i.imgur.com/rIeocKr.png");
+
+        }
+
+        [Command("Jayce")]
+        public async Task Jayce()
+        {
+            await ReplyAsync($"*look at this hotty*\nhttps://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_5.jpg");
+
+        }
+
+        [Command("Jhin")]
+        public async Task Jhin()
+        {
+            await ReplyAsync($"**FOUR**");
+
+        }
+
+        [Command("Jinx")]
+        public async Task Jinx()
+        {
+            await ReplyAsync($"https://media0.giphy.com/media/Ck9gE2cJjaWo8/giphy.gif");
+
+        }
+
+        [Command("Kaisa")]
+        public async Task Kaisa()
+        {
+            await ReplyAsync($"https://i.pinimg.com/originals/13/3f/2f/133f2f636f62d6343f59544b3cffe682.gif");
+
+        }
+
+        [Command("Kalista")]
+        public async Task Kalista()
+        {
+            await ReplyAsync($"is this thing even a champion its so useless");
+
+        }
+
+        [Command("Karma")]
+        public async Task Karma()
+        {
+            await ReplyAsync($"EGIRL EGIRL EGIRL EGIRL EGIRL");
+
+        }
+
+        [Command("Karthus")]
+        public async Task Karthus()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/8KfG7KlOVaY/maxresdefault.jpg");
+
+        }
+
+        [Command("Kassadin")]
+        public async Task Kassadin()
+        {
+            await ReplyAsync($"**XPEKE**\nhttps://thumbs.gfycat.com/FailingHeartfeltAplomadofalcon-mobile.jpg");
+
+        }
+
+        [Command("katarina")]
+        public async Task Katarina()
+        {
+            await ReplyAsync($"beybaldesssssssssssssssssss");
+
+        }
+
+        [Command("Kayle")]
+        public async Task Kayle()
+        {
+            await ReplyAsync($"*invulnerable* *you have been slain*");
+
+        }
+
+        [Command("Kayn")]
+        public async Task Kayn()
+        {
+            await ReplyAsync($"*takes 20 mins to transform* *starts to transform as nexus explodes*");
+
+        }
+
+        [Command("Kennen")]
+        public async Task Kennen()
+        {
+            await ReplyAsync($"Your ADC is paralyzed! It cannot move!");
+
+        }
+
+        [Command("Khazix")]
+        public async Task Khazix()
+        {
+            await ReplyAsync($"*dives into 5 people and focuses the tank*");
+
+        }
+
+        [Command("Kindred")]
+        public async Task Kindred()
+        {
+            await ReplyAsync($"*ults at full HP*");
+
+        }
+        [Command("Kled")]
+        public async Task Kled()
+        {
+            await ReplyAsync($"Did this guy just say a curse word? In my christian moba game :o");
+
+        }
+
+        [Command("Kogmaw")]
+        public async Task kogmaw()
+        {
+            await ReplyAsync($"*pewpewpewpewpewpewpew*");
+
+        }
+
+        [Command("leblanc")]
+        public async Task LeBlanc()
+        {
+            await ReplyAsync($"im here, im there, im ding dang dong everywhere");
+
+        }
+
+
+        [Command("leesin")]
+        public async Task leesin()
+        {
+            await ReplyAsync($"this blind dude just killed me");
+
+        }
+
+
+        [Command("leona")]
+        public async Task leona()
+        {
+            await ReplyAsync($"*literally braindead support that always hits my adc*");
+
+        }
+
+
+        [Command("lissandra")]
+        public async Task Lissandra()
+        {
+            await ReplyAsync($"Faker find this guy boring so you should too");
+
+        }
+
+
+        [Command("lucian")]
+        public async Task Lucian()
+        {
+            await ReplyAsync($"Black guy with two guns hmm");
+
+        }
+        [Command("lulu")]
+        public async Task Lulu()
+        {
+            await ReplyAsync($"im lulu i have the mental capacity of a 2 yearold");
+
+        }
+
+
+        [Command("Lux")]
+        public async Task Lux()
+        {
+            await ReplyAsync($"*has virtually 0 cooldowns and does more damage than my midlaner as a support*");
+
+        }
+
+
+        [Command("Malphite")]
+        public async Task Malphite()
+        {
+            await ReplyAsync($"Get Rockd'");
+
+        }
+
+
+        [Command("Malzahar")]
+        public async Task Malzahar()
+        {
+            await ReplyAsync($"Space Aids");
+
+        }
+
+
+        [Command("Maoki")]
+        public async Task Maoki()
+        {
+            await ReplyAsync($"*TreeSM*");
+
+        }
+
+
+        [Command("MasterYi")]
+        public async Task MasterYi()
+        {
+            await ReplyAsync($"if i get one kill i win the game lmao");
+
+        }
+
+
+        [Command("missfortune")]
+        public async Task missfortune()
+        {
+            await ReplyAsync($"boing boing boing boing");
+
+        }
+
+
+        [Command("Mordekaiser")]
+        public async Task Mordekaiser()
+        {
+            await ReplyAsync($"Am I an ADC? a top laner? A jungler? WHO KNOWS!");
+
+        }
+
+
+        [Command("Morgana")]
+        public async Task Morgana()
+        {
+            await ReplyAsync($"r/notliketheothergirls");
+
+        }
+
+
+        [Command("Nami")]
+        public async Task Nami()
+        {
+            await ReplyAsync($"swish swish bish");
+
+        }
+
+        [Command("Nasus")]
+        public async Task Nasus()
+        {
+            await ReplyAsync($"Stacks. Stacks everywhere.");
+
+        }
+
+        [Command("Nautilus")]
+        public async Task Nautilus()
+        {
+            await ReplyAsync($"*chonkers*\n https://media.giphy.com/media/g0vuc0Q3U3GhO/giphy.gif");
+
+        }
+
+        [Command("Neeko")]
+        public async Task Neeko()
+        {
+            await ReplyAsync($"Neeko Neeko Niiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
+
+        }
+
+        [Command("Nidalee")]
+        public async Task Nidlee()
+        {
+            await ReplyAsync($"I used to do half your health with one spear at level 1 ;)");
+
+        }
+
+        [Command("Nocturne")]
+        public async Task Nocturne()
+        {
+            await ReplyAsync($"*hey who turned off the lights*");
+
+        }
+
+        [Command("Nunu")]
+        public async Task Nunu()
+        {
+            await ReplyAsync($"Nunu: Now with Willump");
+
+        }
+
+        [Command("Olaf")]
+        public async Task Olaf()
+        {
+            await ReplyAsync($"when you try so hard but you never succeed");
+
+        }
+
+        [Command("Orianna")]
+        public async Task Orianna()
+        {
+            await ReplyAsync($"beep boop bitch");
+
+        }
+
+        [Command("Ormn")]
+        public async Task Ormn()
+        {
+            await ReplyAsync($"When you can make things but it costs the same to buy it from the shop but the shop gives you infinite health and mana");
+
+        }
+
+        [Command("Pantheon")]
+        public async Task Pantheon()
+        {
+            await ReplyAsync($"My name is Pantheon, i'm useless af after 10 mins");
+
+        }
+
+        [Command("Poppy")]
+        public async Task Poppy()
+        {
+            await ReplyAsync($"Lollipoppy\n http://i.kinja-img.com/gawker-media/image/upload/s--3adCXgFI--/c_scale,fl_progressive,q_80,w_800/1533594709095392329.jpg");
+
+        }
+
+        [Command("Pyke")]
+        public async Task Pyke()
+        {
+            await ReplyAsync($"*Yoink*");
+
+        }
+
+        [Command("Qiyana")]
+        public async Task Qiyana()
+        {
+            await ReplyAsync($" literally have no clue what this champion does. I cant even tell what gender it is");
+
+        }
+
+        [Command("Quinn")]
+        public async Task Quinn()
+        {
+            await ReplyAsync($"gotta go *fast*");
+
+        }
+
+        [Command("Rakan")]
+        public async Task Rakan()
+        {
+            await ReplyAsync($"owo *xayah* owo");
+
+        }
+
+        [Command("Rammus")]
+        public async Task Rammus()
+        {
+            await ReplyAsync($"OK");
+
+        }
+
+        [Command("Reksai")]
+        public async Task reksai()
+        {
+            await ReplyAsync($"seriosuly is this thing even a champion");
+
+        }
+
+        [Command("renekton")]
+        public async Task Renekton()
+        {
+            await ReplyAsync($"when you look like you came fresh outta mario party");
+
+        }
+
+        [Command("Rengar")]
+        public async Task Rengar()
+        {
+            await ReplyAsync($"*tHe hUnT*");
+
+        }
+
+        [Command("Riven")]
+        public async Task Riven()
+        {
+            await ReplyAsync($"r/notliketheothergirls");
+
+        }
+
+        [Command("Rumble")]
+        public async Task Rumble()
+        {
+            await ReplyAsync($"seriously this guy used to be so good dude what happened");
+
+        }
+
+        [Command("Ryze")]
+        public async Task Ryze()
+        {
+            await ReplyAsync($"another rework please");
+
+        }
+
+        [Command("Sejuani")]
+        public async Task Sejuani()
+        {
+            await ReplyAsync($"RIP Cinderhulk");
+
+        }
+
+        [Command("Shaco")]
+        public async Task Shaco()
+        {
+            await ReplyAsync($"pink ward rip");
+
+        }
+
+        [Command("shen")]
+        public async Task Shen()
+        {
+            await ReplyAsync($"Wanna see me teleport? Wanna see me do it again?");
+
+        }
+
+        [Command("shyvana")]
+        public async Task Shyvana()
+        {
+            await ReplyAsync($"braindead champ");
+
+        }
+
+        [Command("Singed")]
+        public async Task Singed()
+        {
+            await ReplyAsync($"when will Riot nerf this monster");
+
+        }
+
+        [Command("Sion")]
+        public async Task Sion()
+        {
+            await ReplyAsync($"*Get on the magic schoolbus*");
+
+        }
+
+        [Command("Sivir")]
+        public async Task Sivir()
+        {
+            await ReplyAsync($"Pizza Grill");
+
+        }
+
+        [Command("Skarner")]
+        public async Task Skarner()
+        {
+            await ReplyAsync($"Hippity Hoppity your body is my property");
+
+        }
+
+        [Command("Sona")]
+        public async Task Sona()
+        {
+            await ReplyAsync($"*cannot speak*");
+
+        }
+        [Command("Soraka")]
+        public async Task Soraka()
+        {
+            await ReplyAsync($"My favorite top lane bruiser");
+
+        }
+
+        [Command("Swain")]
+        public async Task Swain()
+        {
+            await ReplyAsync($"cacaw");
+
+        }
+
+        [Command("sylas")]
+        public async Task Sylas()
+        {
+            await ReplyAsync($"mad wizard lookin ass");
+
+        }
+
+        [Command("syndra")]
+        public async Task Syndra()
+        {
+            await ReplyAsync($"balls");
+
+        }
+
+        [Command("TahmKench")]
+        public async Task TahmKench()
+        {
+            await ReplyAsync($"phat");
+
+        }
+
+        [Command("Talyah")]
+        public async Task Taliyah()
+        {
+            await ReplyAsync($"erect a wall");
+
+        }
+
+        [Command("Talon")]
+        public async Task Talon()
+        {
+            await ReplyAsync($"*Deadly Kill*");
+
+        }
+
+        [Command("Taric")]
+        public async Task Taric()
+        {
+            await ReplyAsync($"You are nothing more than ass, waiting to be smashed");
+
+        }
+
+        [Command("Teemo")]
+        public async Task Teemo()
+        {
+            await ReplyAsync($"wow heres a mushroom wow YOU'RE DEAD IDIOT");
+
+        }
+
+        [Command("Thresh")]
+        public async Task Thresh()
+        {
+            await ReplyAsync($"hooker");
+
+        }
+
+        [Command("Tristana")]
+        public async Task Tristana()
+        {
+            await ReplyAsync($"Throw a pepperoni onto their heads and they die, welcome to league of legends");
+
+        }
+
+        [Command("Trundle")]
+        public async Task Trundle()
+        {
+            await ReplyAsync($"hippity hoppity your armor is now my property");
+
+        }
+
+        [Command("Tryndamere")]
+        public async Task Tryndamere()
+        {
+            await ReplyAsync($"i never die, guy");
+
+        }
+
+        [Command("TwistedFate")]
+        public async Task TwistedFate()
+        {
+            await ReplyAsync($"mfw i finally get the gold card");
+
+        }
+
+        [Command("Twitch")]
+        public async Task Twitch()
+        {
+            await ReplyAsync($"now you see me, now you don't!");
+
+        }
+
+        [Command("Udyr")]
+        public async Task Udyr()
+        {
+            await ReplyAsync($"$25 VFX Update");
+
+        }
+
+        [Command("Urgot")]
+        public async Task Urgot()
+        {
+            await ReplyAsync($"hippity hoppity your location is not my property");
+
+        }
+
+        [Command("Varus")]
+        public async Task Varus()
+        {
+            await ReplyAsync($"*doesnt do job* *entire race is dead*");
+
+        }
+
+        [Command("Vayne")]
+        public async Task Vayne()
+        {
+            await ReplyAsync($"Nobody: \n Vayne: *Let us hunt those who have fallen to darkness*");
+
+        }
+
+        [Command("Veigar")]
+        public async Task Veigar()
+        {
+            await ReplyAsync($"Hippity Hoppity you're now in my property");
+
+        }
+
+        [Command("Velkoz")]
+        public async Task Velkoz()
+        { 
+            await ReplyAsync($"laza beam");
+
+        }
+
+        [Command("Vi")]
+        public async Task Vi()
+        {
+            await ReplyAsync($"another one of those these champions does not exist");
+
+        }
+
+        [Command("Viktor")]
+        public async Task Viktor()
+        {
+            await ReplyAsync($"why does this guy even exist anymore eeee");
+
+        }
+
+        [Command("Vladimir")]
+        public async Task Vladimir()
+        {
+            await ReplyAsync($"blood blood blood bloodo *blood* *blood*");
+
+        }
+
+        [Command("Volibear")]
+        public async Task Volibear()
+        {
+            await ReplyAsync($"Volibear is also nonexistant in this game wtf just delete it");
+
+        }
+
+        [Command("Warwick")]
+        public async Task Warick()
+        {
+            await ReplyAsync($"I stil have patch 4.20 'weedwick' flashbacks");
+
+        }
+
+        [Command("Wukong")]
+        public async Task Wukong()
+        {
+            await ReplyAsync($"MonkaS King");
+
+        }
+
+        [Command("Xayah")]
+        public async Task Xayah()
+        {
+            await ReplyAsync($"uwu *Rakan* uwu");
+
+        }
+
+        [Command("Xerath")]
+        public async Task Xerath()
+        {
+            await ReplyAsync($"PLUTON J WHAT WAS THAT");
+
+        }
+
+        [Command("Xinzhao")]
+        public async Task xinzhao()
+        {
+            await ReplyAsync($"brainless and op thank you riot very cool");
+
+        }
+
+        [Command("yasuo")]
+        public async Task Yasuo()
+        {
+            await ReplyAsync($"Why is Yasuo the best roommate? Because he always *HAS A KEY*");
+
+        }
+
+        [Command("yorick")]
+        public async Task Yorick()
+        {
+            await ReplyAsync($"no skin gang");
+
+        }
+
+        [Command("Yuumi")]
+        public async Task Yuumi()
+        {
+            await ReplyAsync($"Finally, a champion for the furries");
+
+        }
+
+        [Command("Zac")]
+        public async Task Zac()
+        {
+            await ReplyAsync($"blop blop blop");
+
+        }
+
+        [Command("Zed")]
+        public async Task Zed()
+        {
+            await ReplyAsync($"*Look at the");
+
+        }
+
+        [Command("Zilean")]
+        public async Task Zilean()
+        {
+            await ReplyAsync($"*SIKE* I'm still alive");
+
+        }
+
+        [Command("Zoe")]
+        public async Task Zoe()
+        {
+            await ReplyAsync($"You're asleep aaaaaaaaand dead");
+
+        }
+
+        [Command("Zyra")]
+        public async Task Zyra()
+        {
+            await ReplyAsync($"shes wearing no clothes ;)");
+
+        }
+
+        [Command("Ziggs")]
+        public async Task Ziggs()
+        {
+            await ReplyAsync($"*for legal reasons thats a joke, for legal reaosns thats a joke*");
+
+        }
+
+
         //spongebob
 
         [Command("leedle")]
