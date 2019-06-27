@@ -27,7 +27,11 @@ namespace ShitpostBot
                 $"Garfield\n" +
                 $"PCMR\n" +
                 $"Discord\n" +
-                $"SocialAnxiety\n");
+                $"SocialAnxiety\n" +
+                $"WPT\n" +
+                $"BPT\n" +
+                $"phcomments (Pornhub Comments)\n" +
+                $"\n");
         }
 
     }
