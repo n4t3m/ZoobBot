@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace ShitpostBot
 {
-    public class WPT : ModuleBase
+    public class SocialAnxiety : ModuleBase
     {
-        [Command("meme wpt")]
-        public async Task RektAsync()
+        [Command("meme socialanxiety")]
+        public async Task SocialAnxietyMemes()
         {
             string user = "*WPT GANG* ";
 
@@ -21,37 +21,37 @@ namespace ShitpostBot
             switch (part1)
             {
                 case 0:
-                    user += "https://i.redd.it/nuvlf1vfpr631.jpg";
+                    user += "https://i.redd.it/7andvj7kg4711.jpg";
                     break;
                 case 1:
-                    user += "https://i.redd.it/qf7k358fkl631.jpg";
+                    user += "https://i.redd.it/5y800xnxl2121.jpg";
                     break;
                 case 2:
-                    user += "https://external-preview.redd.it/7mKwiJ1jCarnW5-yecSCbSjLFotVemGm8O8T_tXKedk.jpg?auto=webp&s=ce908442016d6a43ebe5f72eb36f29b0ea863308";
+                    user += "https://i.redd.it/x65b41wmr4j11.jpg";
                     break;
                 case 3:
-                    user += "https://i.redd.it/gx7b45czqr631.jpg";
+                    user += "https://i.redd.it/vl2b70r4n6k21.png";
                     break;
                 case 4:
-                    user += "https://i.redd.it/84njpni37r631.jpg";
+                    user += "https://i.redd.it/jj551h1pl6531.jpg";
                     break;
                 case 5:
-                    user += "https://i.redd.it/e2ombkjh7k631.jpg";
+                    user += "https://i.redd.it/xh58rj5zkx231.jpg";
                     break;
                 case 6:
-                    user += "https://i.redd.it/62tc5bvl5e631.jpg";
+                    user += "https://i.redd.it/cr62j14phr631.jpg";
                     break;
                 case 7:
-                    user += "https://i.redd.it/mp6w000amb631.png";
+                    user += "https://i.redd.it/mhef00s7qo631.png";
                     break;
                 case 8:
-                    user += "https://i.redd.it/xy6kuic9mr631.jpg";
+                    user += "https://img.buzzfeed.com/buzzfeed-static/static/2017-03/20/19/asset/buzzfeed-prod-fastlane-03/anigif_sub-buzz-9915-1490051424-3.gif";
                     break;
                 case 9:
-                    user += "https://i.redd.it/2d65g2lnhq631.jpg";
+                    user += "https://i.chzbgr.com/full/8455219712/h1253FC82/";
                     break;
                 case 10:
-                    user += "https://i.redd.it/srrery43po631.png";
+                    user += "https://i.redd.it/7l6f89kcsnv21.png";
                     break;
             }
             await ReplyAsync(user + "");
