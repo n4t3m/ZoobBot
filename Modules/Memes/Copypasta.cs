@@ -9,12 +9,6 @@ namespace ShitpostBot
 {
     public class Copypasta : ModuleBase
     {
-        [Command("info")]
-        public Task Info()
-            => ReplyAsync(
-$"Hello, I am a bot called {Context.Client.CurrentUser.Username} written in Discord.Net 2.1 for Discord Hack Week.\n");
-
-
         [Command("hello")]
         [Alias("hi", "yo", "sup", "howdy", "nword", "greetings", "Greetings", "Hey", "hey", "Hi", "Konichiwa", "konichiwa")]
         public Task Hello() => ReplyAsync($"Hello There!\n");
