@@ -1137,7 +1137,7 @@ namespace ShitpostBot
         }
 
         [Command("religiousfit")]
-        public async Task CreatorCode()
+        public async Task ReligiousFit()
         {
             await ReplyAsync($"I said a fit not a fervour!");
 
