@@ -9,7 +9,7 @@ namespace ShitpostBot
 {
     public class Copypasta : ModuleBase
     {
-        [Command("hello")]
+        [Command("hola")]
         [Alias("hi", "yo", "sup", "howdy", "nword", "greetings", "Greetings", "Hey", "hey", "Hi", "Konichiwa", "konichiwa")]
         public Task Hello() => ReplyAsync($"Hello There!\n");
 
