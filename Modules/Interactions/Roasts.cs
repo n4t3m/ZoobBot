@@ -10,6 +10,7 @@ namespace ShitpostBot
     public class Roasts : ModuleBase
     {
         [Command("roast")]
+        [Alias("insult")]
         public async Task RektAsync([Remainder] string echo)
         {
             string user = "" + echo;
