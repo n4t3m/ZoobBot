@@ -1495,7 +1495,7 @@ namespace ShitpostBot
 
         [Command("Velkoz")]
         public async Task Velkoz()
-        { 
+        {
             await ReplyAsync($"laza beam");
 
         }
@@ -1876,54 +1876,54 @@ namespace ShitpostBot
             await ReplyAsync($" RYUU GA WAKA TEKI WO KURAE https://tenor.com/w713.gif  ");
         }
 
-    [Command("rolled")]
-    public async Task Rolled()
-    {
-        await ReplyAsync($"STEAM ROOOLLLED https://tenor.com/3oVt.gif ");
+        [Command("rolled")]
+        public async Task Rolled()
+        {
+            await ReplyAsync($"STEAM ROOOLLLED https://tenor.com/3oVt.gif ");
 
-    }
+        }
 
-    [Command("highnoon")]
-    public async Task HighNoon()
-    {
-        await ReplyAsync($" https://tenor.com/4Naq.gif ");
+        [Command("highnoon")]
+        public async Task HighNoon()
+        {
+            await ReplyAsync($" https://tenor.com/4Naq.gif ");
 
-    }
+        }
 
-    [Command("xqc")]
-    public async Task xQc()
-    {
-        await ReplyAsync($" `L_? L_?` https://tenor.com/4Hro.gif ");
+        [Command("xqc")]
+        public async Task xQc()
+        {
+            await ReplyAsync($" `L_? L_?` https://tenor.com/4Hro.gif ");
 
-    }
+        }
 
-    [Command("justice")]
-    public async Task Justice()
-    {
-        await ReplyAsync($" JUSTICE RAINS FROM ABOVE https://tenor.com/4O2E.gif ");
+        [Command("justice")]
+        public async Task Justice()
+        {
+            await ReplyAsync($" JUSTICE RAINS FROM ABOVE https://tenor.com/4O2E.gif ");
 
-    }
+        }
 
-    [Command("seagull")]
-    public async Task Seagull()
-    {
-        await ReplyAsync($" Pog https://tenor.com/Jmjq.gif ");
+        [Command("seagull")]
+        public async Task Seagull()
+        {
+            await ReplyAsync($" Pog https://tenor.com/Jmjq.gif ");
 
-    }
+        }
 
-    [Command("hammer")]
-    public async Task Hammer()
-    {
-        await ReplyAsync($"Hammer DOWN https://tenor.com/4KBf.gif ");
+        [Command("hammer")]
+        public async Task Hammer()
+        {
+            await ReplyAsync($"Hammer DOWN https://tenor.com/4KBf.gif ");
 
-    }
+        }
 
-    [Command("goats")]
-    public async Task Goats()
-    {
-        await ReplyAsync($" O GOD NOT GOATS https://gfycat.com/aptgrimkatydid");
+        [Command("goats")]
+        public async Task Goats()
+        {
+            await ReplyAsync($" O GOD NOT GOATS https://gfycat.com/aptgrimkatydid");
 
-    }
+        }
 
         //Marvel
 
@@ -2553,6 +2553,331 @@ namespace ShitpostBot
 
         }
 
+        //random
+
+
+
+        [Command("mina")]
+        public async Task Mina()
+        {
+            await ReplyAsync($" uwu! https://tenor.com/NUon.gif  ");
+
+        }
+
+        [Command("sana")]
+        public async Task Sana()
+        {
+            await ReplyAsync($" yeet! https://tenor.com/PdEM.gif  ");
+
+        }
+
+
+        [Command("nayeon")]
+        public async Task Nayeon()
+        {
+            await ReplyAsync($" owo https://tenor.com/Q9bs.gif  ");
+
+        }
+
+        [Command("jeongyeon")]
+        public async Task Jeongyeon()
+        {
+            await ReplyAsync($" https://tenor.com/7IEz.gif  ");
+
+        }
+
+        [Command("momo")]
+        public async Task Momo()
+        {
+            await ReplyAsync($" https://tenor.com/PiVL.gif  ");
+
+        }
+
+        [Command("chaeyoung")]
+        public async Task Chaeyoung()
+        {
+            await ReplyAsync($" https://tenor.com/2LWs.gif  ");
+
+        }
+
+        [Command("jihyo")]
+        public async Task Jihyo()
+        {
+            await ReplyAsync($" https://tenor.com/YQGq.gif  ");
+
+        }
+
+        [Command("dahyun")]
+        public async Task Dahyun()
+        {
+            await ReplyAsync($" https://tenor.com/Jhky.gif  ");
+
+        }
+
+        [Command("tzuyu")]
+        public async Task Tzuyu()
+        {
+            await ReplyAsync($" https://tenor.com/5MSV.gif  ");
+
+        }
+
+        [Command("twice")]
+        public async Task Twice()
+        {
+            await ReplyAsync($" https://tenor.com/RLFH.gif  ");
+
+        }
+
+        [Command("greninja")]
+        public async Task Greninja()
+        {
+            await ReplyAsync($" https://tenor.com/xHbY.gif ");
+
+        }
+
+        [Command("totodile")]
+        public async Task Totodile()
+        {
+            await ReplyAsync($" https://tenor.com/x1Uq.gif  ");
+
+        }
+
+        [Command("quagsire")]
+        public async Task Quagsire()
+        {
+            await ReplyAsync($" https://giphy.com/gifs/pokemon-pikachu-quagsire-wneL6OsQsPSiA  ");
+
+        }
+
+        [Command("detroitsmash")]
+        public async Task DetroitSmash()
+        {
+            await ReplyAsync($" DETUROITO SUMASHU https://tenor.com/YnXF.gif  ");
+
+        }
+
+        [Command("allmight")]
+        public async Task AllMight()
+        {
+            await ReplyAsync($" https://tenor.com/OiJt.gif  ");
+
+        }
+
+        [Command("kamehameha")]
+        public async Task Kamehameha()
+        {
+            await ReplyAsync($" https://tenor.com/WAeJ.gif  ");
+
+        }
+
+        [Command("defaultdance")]
+        public async Task DefaultDance()
+        {
+            await ReplyAsync($" https://tenor.com/32C3.gif  ");
+
+        }
+
+        [Command("floss")]
+        public async Task Floss()
+        {
+            await ReplyAsync($" i be flossin https://tenor.com/3LZ7.gif ");
+
+        }
+
+        [Command("bestmates")]
+        public async Task BestMates()
+        {
+            await ReplyAsync($" https://tenor.com/XIgu.gif  ");
+
+        }
+
+        [Command("tpose")]
+        public async Task TPose()
+        {
+            await ReplyAsync($" https://tenor.com/6TWq.gif  ");
+
+        }
+
+        [Command("bts")]
+        public async Task BTS()
+        {
+            await ReplyAsync($" https://tenor.com/6FoQ.gif  ");
+
+        }
+
+        [Command("blackpink")]
+        public async Task BlackPink()
+        {
+            await ReplyAsync($" https://tenor.com/EJLZ.gif  ");
+
+        }
+
+        [Command("jisoo")]
+        public async Task Jisoo()
+        {
+            await ReplyAsync($" https://tenor.com/Weir.gif   ");
+
+        }
+
+        [Command("rose")]
+        public async Task Rose()
+        {
+            await ReplyAsync($" https://tenor.com/XBGh.gif  ");
+
+        }
+
+        [Command("wooper")]
+        public async Task Wooper()
+        {
+            await ReplyAsync($" https://tenor.com/HGlQ.gif  ");
+
+        }
+
+        [Command("quieres")]
+        public async Task Quieres()
+        {
+            await ReplyAsync($" https://tenor.com/6UwO.gif  ");
+
+        }
+
+        [Command("umaru")]
+        public async Task Umaru()
+        {
+            await ReplyAsync($" https://tenor.com/uzmD.gif  ");
+
+        }
+
+        [Command("bulbasaur")]
+        public async Task Bulbasaur()
+        {
+            await ReplyAsync($" https://tenor.com/xazB.gif  ");
+
+        }
+
+        [Command("squirtle")]
+        public async Task Squirtle()
+        {
+            await ReplyAsync($" https://tenor.com/z2qZ.gif  ");
+
+        }
+
+        [Command("charmander")]
+        public async Task Charmander()
+        {
+            await ReplyAsync($" https://tenor.com/yCgG.gif  ");
+
+        }
+
+        [Command("catchemall")]
+        public async Task CatchEmAll()
+        {
+            await ReplyAsync($" Gotta catch em all!! *Pokemon!* ");
+        }
+
+
+
+        [Command("suicune")]
+        public async Task Suicune()
+        {
+            await ReplyAsync($" https://tenor.com/xN0h.gif  ");
+
+        }
+
+        [Command("yourname")]
+        public async Task YourName()
+        {
+            await ReplyAsync($" https://tenor.com/LaF6.gif zEN ZEN ZENSe ");
+
+        }
+
+
+        [Command("fmab")]
+        public async Task FMAB()
+        {
+            await ReplyAsync($" https://tenor.com/wqpa.gif  ");
+
+        }
+
+        [Command("mustang")]
+        public async Task Mustang()
+        {
+            await ReplyAsync($" firebender! kek https://tenor.com/Dbo9.gif   ");
+
+        }
+
+        [Command("circle")]
+        public async Task Circle()
+        {
+            await ReplyAsync($" HES NOT EVEN USING A TRANSMUTATION CIRCLE! :O https://tenor.com/yUxY.gif  ");
+
+        }
+
+        [Command("yato")]
+        public async Task Yato()
+        {
+            await ReplyAsync($" God of calamity!  https://tenor.com/Gc6s.gif  ");
+
+        }
+
+        [Command("mob")]
+        public async Task Mob()
+        {
+            await ReplyAsync($" ??????% https://tenor.com/3Gvn.gif  ");
+
+        }
+
+        [Command("seriouspunch")]
+        public async Task SeriousPunch()
+        {
+            await ReplyAsync($" 1 hit! https://tenor.com/8eim.gif  ");
+
+        }
+
+        [Command("damn")]
+        public async Task Damn()
+        {
+            await ReplyAsync($" https://tenor.com/Mbrn.gif  ");
+
+        }
+
+        [Command("jajanken")]
+        public async Task Jajanken()
+        {
+            await ReplyAsync($"JAN KEN PON https://tenor.com/UK8M.gif   ");
+
+        }
+
+        [Command("shelter")]
+        public async Task Shelter()
+        {
+            await ReplyAsync($" https://tenor.com/8gSK.gif  ");
+
+        }
+
+        [Command("orangejustice")]
+        public async Task OrangeJustice()
+        {
+            await ReplyAsync($" https://tenor.com/XD9G.gif  ");
+
+        }
+
+        [Command(" shoot ")]
+        public async Task Shoot()
+        {
+            await ReplyAsync($" https://tenor.com/UAcc.gif  ");
+
+        }
+
+
+        [Command(" godspeed ")]
+        public async Task Godspeed()
+        {
+            await ReplyAsync($" https://tenor.com/1Zyh.gif  ");
+
+        }
+
+    }
+
 
 
 
@@ -2570,7 +2895,7 @@ namespace ShitpostBot
             */
 
     }
-}
+
 
 
 
