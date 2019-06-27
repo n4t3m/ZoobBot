@@ -61,7 +61,7 @@ namespace ShitpostBot
 
             if (str.Contains("fuck") || str.Contains("shit") || str.Contains("tits") || str.Contains("dick") || str.Contains("bitch") || str.Contains("bastard") || str.Contains("damn") || str.Contains("cunt") || str.Contains("wanker") || str.Contains("cunt") || str.Contains("wanker")  || str.Contains("penis") || str.Contains("frick")  || str.Contains("cock") || str.Contains("Brian Liu")  || str.Contains("hell") || str.Contains("nigga") || str.Contains("pussy"))
             {
-                await message.Channel.SendMessageAsync("**THERE WILL BE NO FUCKING CURSING ON THIS MINECRAFT. DISCORD. SERVER.** https://i.imgur.com/RUdPyQP.jpg");
+                await message.Channel.SendMessageAsync("**THERE WILL BE NO FUCKING CURSING ON THIS MINECRAFT. DISCORD. SERVER.** \nhttps://tenor.com/YG43.gif");
             }
 
             if (str.Contains("I'm"))
