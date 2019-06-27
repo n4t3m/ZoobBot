@@ -96,9 +96,26 @@ namespace ShitpostBot
 
 
         }
-   
 
-[Command("help")]
+        [Command("botinfo")]
+        [Alias("binfo")]
+        public async Task Info()
+        {
+            var botUser = Context.Client.CurrentUser;
+
+            var embedBuilder = new EmbedBuilder()
+                .WithTitle("__About me__")
+                .WithDescription("Welcome to Zoob Bot. Zoob Bot is a bot made for Discord Hack Week 2019 and features 500 commands for shitty memes, jokes, and pop culture references.")
+                .WithColor(100, 180, 255)
+                .WithThumbnailUrl(botUser.GetAvatarUrl(size: 64))
+                .AddField("Want to know what commands?", $"Type !help for more information about our hundreds of commands.")
+                .AddField("Who?", " [Zoob Bot](https://github.com/NateM135/ZoobBot \"GitHub\") is made by Nathan Melwani, Patrick Aveninto, and Jinsu Hwang.");
+
+            await ReplyAsync("", embed: embedBuilder.Build());
+        }
+
+
+        [Command("help")]
         public async Task Help()
         {
             await ReplyAsync($"**Zoob Bot Commnands List**\n" +
