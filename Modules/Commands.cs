@@ -109,7 +109,7 @@ namespace ShitpostBot
                 .WithColor(100, 180, 255)
                 .WithThumbnailUrl(botUser.GetAvatarUrl(size: 64))
                 .AddField("Want to know what commands?", $"Type !help for more information about our hundreds of commands.")
-                .AddField("Who?", " [Zoob Bot](https://github.com/NateM135/ZoobBot \"GitHub\") is made by Nathan Melwani, Patrick Aveninto, and Jinsu Hwang.");
+                .AddField("Who?", " [Zoob Bot](https://github.com/NateM135/ZoobBot \"GitHub\") is made by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.");
 
             await ReplyAsync("", embed: embedBuilder.Build());
         }
