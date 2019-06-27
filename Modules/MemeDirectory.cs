@@ -31,7 +31,7 @@ namespace ShitpostBot
                 $"WPT\n" +
                 $"BPT\n" +
                 $"phcomments (Pornhub Comments)\n" +
-                $"\n");
+                $"awww\n");
         }
 
     }
