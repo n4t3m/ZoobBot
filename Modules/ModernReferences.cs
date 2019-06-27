@@ -601,15 +601,417 @@ namespace ShitpostBot
             await ReplyAsync($"*Look at the plays, Look at the moves, **FAKER WHAT WAS THAT**\nhttps://thumbs.gfycat.com/ThreadbareEmptyHornshark-size_restricted.gif");
 
         }
-        /*
+        //spongebob
 
-        [Command("creatorcode")]
-        public async Task CreatorCode()
+        [Command("leedle")]
+        public async Task Leedle()
         {
-            await ReplyAsync($"");
+            await ReplyAsync($"*leedle leedle leedle leedle*\nhttps://media.giphy.com/media/eCgzPvuU3ZqX6/giphy.gif");
 
         }
-        */
+
+        [Command("potatosalad")]
+        public async Task PotatoSalad()
+        {
+            await ReplyAsync($"**IT TOOK US 3 DAYS TO MAKE THAT POTATO SALAD**");
+
+        }
+
+        [Command("touch")]
+        public async Task touch()
+        {
+            await ReplyAsync($"*TOUCH!*");
+
+        }
+
+        [Command("future")]
+        public async Task Futuree()
+        {
+            await ReplyAsync($"*futurreeereeeeeeeee*");
+
+        }
+
+        [Command("bigmeatyclaws")]
+        public async Task bigmeatyclaws()
+        {
+            await ReplyAsync($"**BIG MEATY. CLAWS.**");
+
+        }
+        [Command("ugly")]
+        public async Task UglyP()
+        {
+            await ReplyAsync($"I'm ugly and I'm proud");
+
+        }
+        [Command("movebehindrocks")]
+        public async Task MoveBehindRocks()
+        {
+            await ReplyAsync($"*You're good! You're good! You're good! You're good!");
+
+        }
+
+        [Command("wumbo")]
+        public async Task Wumbo()
+        {
+            await ReplyAsync($"*Bot is now set to 'w' for WUMBO.*");
+
+        }
+
+        [Command("mini")]
+        public async Task Mini()
+        {
+            await ReplyAsync($"Bot is now set to 'm' for MINI.");
+
+        }
+
+        [Command("bathtime")]
+        public async Task Bathtime()
+        {
+            await ReplyAsync($"*oh god oh fuck*");
+
+        }
+
+
+        [Command("chocolate")]
+        public async Task Chocolate()
+        {
+            await ReplyAsync($"**CHOCOLATE???? CHOCOLATE!?!??!!?? CHOCLATEEEEEEEEEEE CHOOOCCUOOOOLATEEEEE**");
+
+        }
+
+
+        [Command("areyoupatrickstar")]
+        public async Task areyoupatickstar()
+        {
+            await ReplyAsync($"*Yup*");
+
+        }
+
+
+        [Command("andthisisyourid")]
+        public async Task AndThisIsYourID()
+        {
+            await ReplyAsync($"*Yup*");
+
+        }
+
+
+        [Command("ifoundthisidinthiswallet")]
+        public async Task WalletGangWalletGang()
+        {
+            await ReplyAsync($"*that makes sense to me*");
+
+        }
+
+        [Command("then take it")]
+        public async Task notmywallet()
+        {
+            await ReplyAsync($"It's not my wallet.");
+
+        }
+
+        [Command("isthisthekrustykrab")]
+        public async Task KrustyKrab()
+        {
+            await ReplyAsync($"**NO, THIS IS PATRICK**");
+
+        }
+
+        [Command("krustykrabpizza")]
+        public async Task KKPizza()
+        {
+            await ReplyAsync($"*The pizza for you and meeeeeeee*");
+
+        }
+
+        [Command("ismayoaninstrument")]
+        public async Task InstrumentGang()
+        {
+            await ReplyAsync($"No, Mayo is not an instrument. Horseradish is not an instrument either.");
+
+        }
+
+        [Command("touch")]
+        public async Task Touch()
+        {
+            await ReplyAsync($"**DON't TOUCH*");
+
+        }
+
+        [Command("we have technology")]
+        public async Task wehavetechnolgy()
+        {
+            await ReplyAsync($"**SMASH**");
+
+        }
+
+        [Command("hello")]
+        public async Task hellosb()
+        {
+            await ReplyAsync($"*I love you*");
+
+        }
+
+        [Command("donttouchme")]
+        public async Task donttouchme()
+        {
+            await ReplyAsync($"I'm sterile");
+
+        }
+
+        [Command("24")]
+        public async Task twentyfour()
+        {
+            await ReplyAsync($"*I thought of something funnier than 24*\n\n*25*");
+
+        }
+
+        [Command("25")]
+        public async Task twentyfive()
+        {
+            await ReplyAsync($"**LMAO**");
+
+        }
+
+        [Command("mynamesnotrick")]
+        public async Task mynameisnotrick()
+        {
+            await ReplyAsync($"**MY NAMES, NOT, RICKKKKKKK**");
+
+        }
+
+        [Command("itssupposedtodothat")]
+        public async Task toyok()
+        {
+            await ReplyAsync($"*heyyyyyy, my toy is ok");
+
+        }
+
+        [Command("howcanweeverthankyou")]
+        public async Task tysb()
+        {
+            await ReplyAsync($"*move outta this neighberhood*");
+
+        }
+
+        [Command("seewhatimean")]
+        public async Task seewhatimean()
+        {
+            await ReplyAsync($"*Where's the leak mam?*");
+
+        }
+
+        [Command("pat")]
+        public async Task patricksb()
+        {
+            await ReplyAsync($"MY NAME IS PATRICK");
+
+        }
+
+
+        //overwatch
+
+
+
+        [Command("C9")]
+        public async Task CNine()
+        {
+            await ReplyAsync($"It's a Z fucking 9 https://gfycat.com/disfiguredvioletilsamochadegu");
+
+        }
+
+
+        [Command("nerf")]
+        public async Task Nerf()
+        {
+            await ReplyAsync($"NERF THIS!!! https://tenor.com/ykgz.gif");
+
+        }
+
+        [Command("healing")]
+        public async Task Healing()
+        {
+            await ReplyAsync($" *i need healing*  https://tenor.com/6GR3.gif ");
+
+        }
+
+        [Command("genji")]
+        public async Task Genji()
+        {
+            await ReplyAsync($" RYUJIN NO KEN WO KURAE https://tenor.com/C9WG.gif ");
+
+        }
+
+        [Command("hanzo")]
+        public async Task Hanzo()
+        {
+            await ReplyAsync($" RYUU GA WAKA TEKI WO KURAE https://tenor.com/w713.gif  ");
+        }
+
+    [Command("rolled")]
+    public async Task Rolled()
+    {
+        await ReplyAsync($"STEAM ROOOLLLED https://tenor.com/3oVt.gif ");
+
+    }
+
+    [Command("highnoon")]
+    public async Task HighNoon()
+    {
+        await ReplyAsync($" https://tenor.com/4Naq.gif ");
+
+    }
+
+    [Command("xqc")]
+    public async Task xQc()
+    {
+        await ReplyAsync($" `L_? L_?` https://tenor.com/4Hro.gif ");
+
+    }
+
+    [Command("justice")]
+    public async Task Justice()
+    {
+        await ReplyAsync($" JUSTICE RAINS FROM ABOVE https://tenor.com/4O2E.gif ");
+
+    }
+
+    [Command("seagull")]
+    public async Task Seagull()
+    {
+        await ReplyAsync($" Pog https://tenor.com/Jmjq.gif ");
+
+    }
+
+    [Command("hammer")]
+    public async Task Hammer()
+    {
+        await ReplyAsync($"Hammer DOWN https://tenor.com/4KBf.gif ");
+
+    }
+
+    [Command("goats")]
+    public async Task Goats()
+    {
+        await ReplyAsync($" O GOD NOT GOATS https://gfycat.com/aptgrimkatydid");
+
+    }
+
+        //Marvel
+
+
+
+
+        [Command("love")]
+        public async Task Love()
+        {
+            await ReplyAsync($"I love you 3000 https://giphy.com/gifs/tony-endgame-i-love-you-3000-JQMeUrXpiZ3M79iOQl ");
+
+        }
+
+        [Command("balanced")]
+        public async Task Balanced()
+        {
+            await ReplyAsync($" Yo thanos was lowkey right tho https://tenor.com/22AE.gif ");
+
+        }
+
+        [Command("assemble")]
+        public async Task Assemble()
+        {
+            await ReplyAsync($"AVENGERS ASSEMBLE uwu https://tenor.com/6Zz1.gif ");
+
+        }
+
+        [Command("wakanda")]
+        public async Task Wakanda()
+        {
+            await ReplyAsync($"WAKANDA FOREVA https://tenor.com/UJT5.gif ");
+
+        }
+
+        [Command("spiderman")]
+        public async Task Spiderman()
+        {
+            await ReplyAsync($":O SPIDERMAN! https://tenor.com/XE21.gif ");
+
+        }
+
+        [Command("hulksmash")]
+        public async Task HulkSmash()
+        {
+            await ReplyAsync($"RAWR https://tenor.com/Jdta.gif ");
+
+        }
+
+        [Command("hulk")]
+        public async Task Hulk()
+        {
+            await ReplyAsync($"Got hulk? https://media1.giphy.com/media/7r0h1S349Rb2M/giphy.gif");
+
+        }
+
+        [Command("angry")]
+        public async Task Angry()
+        {
+            await ReplyAsync($" same https://tenor.com/R9OD.gif ");
+
+        }
+
+        [Command("ironman")]
+        public async Task IronMan()
+        {
+            await ReplyAsync($" thank you tony very cool https://tenor.com/view/iam-iron-man-iron-man-avengers-endgame-avengers-endgame-gif-14042823");
+
+        }
+
+        [Command("groot")]
+        public async Task Groot()
+        {
+            await ReplyAsync($" I am also groot https://tenor.com/S9AZ.gif ");
+
+        }
+
+        [Command("dormamu")]
+        public async Task Dormamu()
+        {
+            await ReplyAsync($"we have come to bargain https://tenor.com/5u6O.gif ");
+
+        }
+
+        [Command("snap")]
+        public async Task Snap()
+        {
+            await ReplyAsync($"time to balance https://tenor.com/0ac3.gif ");
+
+        }
+
+
+        [Command("ass")]
+        public async Task Ass()
+        {
+            await ReplyAsync($"dat ass of america https://media.giphy.com/media/XbgiHYuOsFDc6ULc5m/giphy.gif");
+
+        }
+
+        [Command("dust")]
+        public async Task Dust()
+        {
+            await ReplyAsync($"I dont feel so good https://tenor.com/YUur.gif ");
+
+        }
+
+
+
+
+        /*
+        [Command("creatorcode")]
+            public async Task CreatorCode()
+            {
+                await ReplyAsync($"");
+
+            }
+            */
 
     }
 }
