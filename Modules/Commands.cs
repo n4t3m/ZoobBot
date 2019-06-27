@@ -115,7 +115,17 @@ namespace ShitpostBot
         }
 
 
-        [Command("help")]
+        [Command("say")]
+        public async Task Say(string choice)
+        {
+
+            await ReplyAsync("*" + choice + "*");
+
+        }
+    
+
+
+    [Command("help")]
         public async Task Help()
         {
             await ReplyAsync($"**Zoob Bot Commnands List**\n" +
