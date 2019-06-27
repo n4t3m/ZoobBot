@@ -1258,6 +1258,82 @@ namespace ShitpostBot
 
         }
 
+        //csgo
+
+
+
+
+        [Command("juandeag")]
+        public async Task JuanDeag()
+        {
+            await ReplyAsync($" OH YEAH https://ih0.redbubble.net/image.594756133.2364/poster,840x830,f8f8f8-pad,750x1000,f8f8f8.jpg ");
+
+        }
+
+        [Command("boostmeister")]
+        public async Task BoostMeister()
+        {
+            await ReplyAsync($" olofmeister boostmeister https://images.genius.com/105450852c4e0977636191884674454d.578x500x1.jpg ");
+
+        }
+
+        [Command("rushb")]
+        public async Task RushB()
+        {
+            await ReplyAsync($" P90 RUSH B!!!! https://thumbs.gfycat.com/MelodicTastyDairycow-size_restricted.gif ");
+
+        }
+
+        [Command("plant")]
+        public async Task Plant()
+        {
+            await ReplyAsync($" 7355608 BOMB HAS BEEN PLANTED https://tenor.com/JkSi.gif  ");
+
+        }
+
+        [Command("s1mple")]
+        public async Task soneimple(x)
+        {
+            await ReplyAsync($" https://thumbs.gfycat.com/FrequentRemorsefulChrysalis-small.gif ");
+
+        }
+
+        [Command("collat")]
+        public async Task Collat()
+        {
+            await ReplyAsync($" https://i.ytimg.com/vi/a2wogZcNsEw/maxresdefault.jpg ");
+
+        }
+
+        [Command("dragonlore")]
+        public async Task DragonLore()
+        {
+            await ReplyAsync($" :O ");
+
+        }
+
+        [Command("green")]
+        public async Task Green()
+        {
+            await ReplyAsync($" GREEN GREEN WHATS YOUR PROBLEM https://i.ytimg.com/vi/ddOB180f2kw/maxresdefault.jpg ");
+
+        }
+
+        [Command("knifemid")]
+        public async Task KnifeMid()
+        {
+            await ReplyAsync($" KNIFE ONLY MID ");
+
+        }
+
+
+        [Command("swag7")]
+        public async Task Swag7()
+        {
+            await ReplyAsync($" best gun in the game https://i.ytimg.com/vi/YNXX7eQLBe8/maxresdefault.jpg ");
+
+        }
+
 
 
 
