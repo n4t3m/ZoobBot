@@ -1580,6 +1580,96 @@ namespace ShitpostBot
 
         }
 
+        //DC
+
+
+
+        [Command("batman")]
+        public async Task Batman()
+        {
+            await ReplyAsync($" i am the night. i am batman ");
+
+        }
+
+        [Command("joker")]
+        public async Task Joker()
+        {
+            await ReplyAsync($"REE https://tenor.com/EIxx.gif ");
+
+        }
+
+        [Command("aquaman")]
+        public async Task Aquaman()
+        {
+            await ReplyAsync($" oh yeah https://tenor.com/1ntU.gif   ");
+
+        }
+
+        [Command("doomsday")]
+        public async Task Doomsaday()
+        {
+            await ReplyAsync($" https://tenor.com/Ewuq.gif  ");
+
+        }
+
+        [Command("wonderwoman")]
+        public async Task WonderWoman()
+        {
+            await ReplyAsync($" https://tenor.com/RRPQ.gif  ");
+
+        }
+
+        [Command("bane")]
+        public async Task Bane()
+        {
+            await ReplyAsync($"BANE! https://tenor.com/t4Tn.gif  ");
+
+        }
+        [Command("robin")]
+        public async Task Robin()
+        {
+            await ReplyAsync($" https://tenor.com/YOyu.gif  ");
+
+        }
+
+        [Command("greenlantern")]
+        public async Task GreenLantern()
+        {
+            await ReplyAsync($" HAL JORDAN! https://tenor.com/HLTA.gif  ");
+
+        }
+
+        [Command("superman")]
+        public async Task Superman()
+        {
+            await ReplyAsync($" pog https://tenor.com/rUqI.gif  ");
+
+        }
+
+        [Command("gamers")]
+        public async Task gamers()
+        {
+            await ReplyAsync($" Gamers. We have been taught to fight. We have been left in the dust. When we started out, we were just molecules, but we are gonna join up today. Join me as I go gaming, and we join together. We can take out the people who hate us. Join me, and we will take out everyone. We will rise up. ");
+
+        }
+
+        [Command("flash")]
+        public async Task Flash()
+        {
+            await ReplyAsync($" https://tenor.com/zWEv.gif   ");
+
+        }
+
+        [Command("shazam")]
+        public async Task Shazam()
+        {
+            await ReplyAsync($" https://tenor.com/Zpip.gif  ");
+
+        }
+
+
+
+
 
 
 
