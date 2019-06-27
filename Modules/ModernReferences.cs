@@ -1144,6 +1144,122 @@ namespace ShitpostBot
         }
 
 
+        //smash
+
+        [Command("waluigi")]
+        public async Task Waluigi()
+        {
+            await ReplyAsync($" #waluigiforsmash https://tenor.com/HvlQ.gif ");
+
+        }
+
+        [Command("isabelle")]
+        public async Task Isabelle()
+        {
+            await ReplyAsync($" PRO KAWAII DOGGY https://tenor.com/0GDT.gif ");
+
+        }
+
+        [Command("banjo")]
+        public async Task Banjo()
+        {
+            await ReplyAsync($" JEBAITED https://tenor.com/8hdj.gif ");
+
+        }
+
+
+        [Command("reggie")]
+        public async Task Reggie()
+        {
+            await ReplyAsync($" https://tenor.com/3MZG.gif  ");
+
+        }
+
+
+        [Command("sakurai")]
+        public async Task Sakurai()
+        {
+            await ReplyAsync($" PAPA SAKURAI https://tenor.com/3oOM.gif  ");
+
+        }
+
+        [Command("wombocombo")]
+        public async Task WomboCombo()
+        {
+            await ReplyAsync($" DAT AINT FALCO! https://tenor.com/o07A.gif  ");
+
+        }
+
+        [Command("chillin")]
+        public async Task Chillin()
+        {
+            await ReplyAsync($" salt https://thumbs.gfycat.com/HarshSnivelingBream-small.gif ");
+
+        }
+
+        [Command("etika")]
+        public async Task Etika()
+        {
+            await ReplyAsync($"rip etika https://tenor.com/LuX8.gif ");
+
+        }
+
+
+        [Command("joycon")]
+        public async Task Joycon()
+        {
+            await ReplyAsync($"JOYCON BOYZ https://thumbs.gfycat.com/NeatLoneAnnashummingbird-small.gif");
+
+        }
+
+        [Command("hungrybox")]
+        public async Task Hungrybox()
+        {
+            await ReplyAsync($"CLUTCHBOX PUFF ");
+
+        }
+
+        [Command("ridley")]
+        public async Task Ridley()
+        {
+            await ReplyAsync($" :O https://i.kym-cdn.com/photos/images/newsfeed/001/381/461/5ff.gif ");
+
+        }
+
+
+
+        [Command("falcon")]
+        public async Task Falcon()
+        {
+            await ReplyAsync($" FALCON PUNCH https://tenor.com/yWip.gif  ");
+
+        }
+
+        [Command("mewtwo")]
+        public async Task Mewtwo()
+        {
+            await ReplyAsync($" https://tenor.com/v5qq.gif ");
+
+        }
+
+
+        [Command("foxonly")]
+        public async Task FoxOnly()
+        {
+            await ReplyAsync($" No Items, Fox Only, Final Destination ");
+
+        }
+
+
+        [Command("tierlist")]
+        public async Task TierList()
+        {
+            await ReplyAsync($" here is the only tier list for smash that matters. https://pbs.twimg.com/media/DuzyjiZUcAA0BHX.png");
+
+        }
+
+
+
 
 
         /*
