@@ -1292,7 +1292,7 @@ namespace ShitpostBot
         }
 
         [Command("s1mple")]
-        public async Task soneimple(x)
+        public async Task soneimple()
         {
             await ReplyAsync($" https://thumbs.gfycat.com/FrequentRemorsefulChrysalis-small.gif ");
 
