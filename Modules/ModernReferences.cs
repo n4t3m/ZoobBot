@@ -2876,6 +2876,789 @@ namespace ShitpostBot
 
         }
 
+
+
+        [Command("demoman")]
+        public async Task demoman()
+        {
+            await ReplyAsync($"https://imgur.com/r/TF2fashionadvice/K8A40As");
+
+        }
+        [Command("engineer")]
+        public async Task engineer()
+        {
+            await ReplyAsync($"https://imgur.com/gallery/wtBHFtE");
+
+        }
+        [Command("heavy")]
+        public async Task heavy()
+        {
+            await ReplyAsync($"https://imgur.com/gallery/XXSSqDG");
+
+        }
+        [Command("medic")]
+        public async Task medic()
+        {
+            await ReplyAsync($"https://imgur.com/gallery/VECoZI9");
+
+        }
+        [Command("pyro")]
+        public async Task pyro()
+        {
+            await ReplyAsync($"https://imgur.com/gallery/t3l26");
+
+        }
+        [Command("soldier")]
+        public async Task soldier()
+        {
+            await ReplyAsync($"https://imgur.com/gallery/02rrglR");
+
+        }
+        [Command("spy")]
+        public async Task spy()
+        {
+            await ReplyAsync($"there's a spy in the base");
+
+        }
+        [Command("sniper")]
+        public async Task sniper()
+        {
+            await ReplyAsync($"bloop");
+
+        }
+        [Command("scout")]
+        public async Task scout()
+        {
+            await ReplyAsync($"i'm a force of nature");
+
+        }
+        [Command("beep")]
+        public async Task beep()
+        {
+            await ReplyAsync($"boop");
+
+        }
+        [Command("doot")]
+        public async Task doot()
+        {
+            await ReplyAsync($"doot doot");
+
+        }
+        [Command("goldmember")]
+        public async Task goldmember()
+        {
+            await ReplyAsync($"I looove gold");
+
+        }
+        [Command("wetworks")]
+        public async Task wetworkd()
+        {
+            await ReplyAsync($"gross tf2 skin. It is true ");
+
+        }
+        [Command("glossyboys")]
+        public async Task glossyboys()
+        {
+            await ReplyAsync($" baby oil is the secret to gloss  ");
+
+        }
+        [Command("moist")]
+        public async Task moist()
+        {
+            await ReplyAsync($"only eplicable to to cakes, and maybe mayo");
+
+        }
+        [Command("charlie chapplin")]
+        public async Task charliechapplin()
+        {
+            await ReplyAsync($"kina cool, dude.");
+
+        }
+        [Command("A")]
+        public async Task a()
+        {
+            await ReplyAsync($"B");
+
+        }
+        [Command("B")]
+        public async Task b()
+        {
+            await ReplyAsync($"C");
+
+        }
+        [Command("c")]
+        public async Task c()
+        {
+            await ReplyAsync($"d");
+
+        }
+        [Command("d")]
+        public async Task d()
+        {
+            await ReplyAsync($"e");
+
+        }
+        [Command("e")]
+        public async Task e()
+        {
+            await ReplyAsync($"f");
+
+        }
+        [Command("f")]
+        public async Task f()
+        {
+            await ReplyAsync($"g");
+
+        }
+        [Command("g")]
+        public async Task g()
+        {
+            await ReplyAsync($"h");
+
+        }
+        [Command("i")]
+        public async Task i()
+        {
+            await ReplyAsync($"j");
+
+        }
+        [Command("h")]
+        public async Task h()
+        {
+            await ReplyAsync($"i");
+
+        }
+        [Command("j")]
+        public async Task j()
+        {
+            await ReplyAsync($"k");
+
+        }
+        [Command("k")]
+        public async Task k()
+        {
+            await ReplyAsync($"l");
+
+        }
+        [Command("l")]
+        public async Task l()
+        {
+            await ReplyAsync($"m");
+
+        }
+        [Command("m")]
+        public async Task m()
+        {
+            await ReplyAsync($"n");
+
+        }
+        [Command("n")]
+        public async Task n()
+        {
+            await ReplyAsync($"o");
+
+        }
+        [Command("o")]
+        public async Task o()
+        {
+            await ReplyAsync($"p");
+
+        }
+        [Command("p")]
+        public async Task p()
+        {
+            await ReplyAsync($"q");
+
+        }
+        [Command("q")]
+        public async Task q()
+        {
+            await ReplyAsync($"r");
+
+        }
+        [Command("r")]
+        public async Task r()
+        {
+            await ReplyAsync($"s");
+
+        }
+
+    
+    [Command("s")]
+    public async Task s()
+    {
+        await ReplyAsync($"t");
+
+    }
+    [Command("t")]
+    public async Task t()
+    {
+        await ReplyAsync($"u");
+
+    }
+    [Command("u")]
+    public async Task u()
+    {
+        await ReplyAsync($"v");
+
+    }
+    [Command("v")]
+    public async Task v()
+    {
+        await ReplyAsync($"w");
+
+    }
+    [Command("w")]
+    public async Task w()
+    {
+        await ReplyAsync($"x");
+
+    }
+    [Command("x")]
+    public async Task x()
+    {
+        await ReplyAsync($"y");
+
+    }
+    [Command("y")]
+    public async Task y()
+    {
+        await ReplyAsync($"z");
+
+    }
+    [Command("69")]
+
+    public async Task sixtynine()
+        {
+            await ReplyAsync($"nice");
+
+}
+[Command("alphabet")]
+public async Task alphabet()
+{
+    await ReplyAsync($"abcdefghijklmnopqrstuvwxyz");
+
+}
+[Command("abcd")]
+public async Task abcd()
+{
+    await ReplyAsync($"abcdefghijklmnopqrstuvwxyz");
+
+}
+[Command("abc")]
+public async Task abc()
+{
+    await ReplyAsync($"abcdefghijklmnopqrstuvwxyz");
+
+}
+[Command("abcde")]
+public async Task abcde()
+{
+    await ReplyAsync($"abcdefghijklmnopqrstuvwxyz");
+
+}
+[Command("wow?")]
+public async Task wow()
+{
+    await ReplyAsync($"wow");
+
+}
+[Command("Thisisaverylongcommand")]
+public async Task itis()
+{
+    await ReplyAsync($"It is");
+
+}
+[Command("passport")]
+public async Task passport()
+{
+    await ReplyAsync($"you may pass");
+
+}
+[Command("gibberjabber")]
+public async Task gibbering()
+{
+    await ReplyAsync($"bleh blah bleh");
+
+}
+[Command("dnd")]
+public async Task dnd()
+{
+    await ReplyAsync($"that is a tabletop rpg");
+
+}
+[Command("nat1")]
+public async Task nat1()
+{
+    await ReplyAsync($"https://imgur.com/gallery/qMnHzgm");
+
+}
+[Command("nat20")]
+public async Task nat20()
+{
+    await ReplyAsync($"https://imgur.com/gallery/UiZP0sz");
+
+}
+[Command("1+1")]
+public async Task one()
+        {
+            await ReplyAsync($"2");
+
+        }
+[Command("9+10")]
+public async Task nine()
+        {
+            await ReplyAsync($"21");
+
+        }
+[Command("cool?")]
+public async Task cool()
+{
+    await ReplyAsync($"cool cool cool");
+
+}
+[Command("yes")]
+public async Task yes()
+{
+    await ReplyAsync($"yes");
+
+}
+[Command("saynomore")]
+public async Task saynomore()
+{
+    await ReplyAsync($"I rather not");
+
+}
+[Command("knock knock")]
+public async Task knock()
+{
+    await ReplyAsync($"come in");
+
+}
+[Command("ye")]
+public async Task ye()
+{
+    await ReplyAsync($"ye ye");
+
+}
+[Command("ya ya")]
+public async Task ya()
+{
+    await ReplyAsync($"ya ya");
+
+}
+[Command("bois will be bois")]
+public async Task boi()
+{
+    await ReplyAsync($"bois please be careful");
+
+}
+[Command("caleb")]
+public async Task caleb()
+{
+    await ReplyAsync($"reduced his parents to ash");
+
+}
+[Command("nott")]
+public async Task nott()
+{
+    await ReplyAsync($"nott the brave");
+
+}
+[Command("your breathtaking")]
+public async Task breathtaking()
+{
+    await ReplyAsync($"no, your breathtaking!");
+
+}
+[Command("comfort")]
+public async Task comfort()
+{
+    await ReplyAsync($"that is the best thing ever");
+
+}
+[Command("company")]
+public async Task company()
+{
+    await ReplyAsync($"company is always nice to have from other people.");
+
+}
+[Command("beu")]
+public async Task beu()
+{
+    await ReplyAsync($"beu the monk");
+
+}
+[Command("ashley johnson")]
+public async Task ashleyjohnson()
+{
+    await ReplyAsync($"is a last of us actor");
+
+}
+[Command("mattew mercer")]
+public async Task mattew()
+{
+    await ReplyAsync($"very cool guy if you ask");
+
+}
+
+[Command("past or the future")]
+public async Task pof()
+{
+    await ReplyAsync($"future");
+
+}
+[Command("curiosity")]
+public async Task curiosity()
+{
+    await ReplyAsync($"it probs not a very good reason to do those things");
+
+}
+[Command("lifeguard")]
+public async Task lifeguard()
+{
+    await ReplyAsync($"got fired at some point");
+
+}
+[Command("123")]
+public async Task thiteen()
+        {
+            await ReplyAsync($"456");
+
+        }
+[Command("456")]
+public async Task fourfivesix()
+        {
+            await ReplyAsync($"789");
+
+        }
+[Command("321")]
+public async Task threetwoone()
+        {
+            await ReplyAsync($"654");
+
+        }
+[Command("buzz")]
+public async Task buzz()
+{
+    await ReplyAsync($"buzzz buzzz");
+
+}
+[Command("pink slip")]
+public async Task pinkslip()
+{
+    await ReplyAsync($"why are you firing me?");
+
+}
+[Command("quit")]
+public async Task quit()
+{
+    await ReplyAsync($"you can't quit me");
+
+}
+[Command("gamesofthrones")]
+public async Task gamesofthrones()
+{
+    await ReplyAsync($"they mostly play twister");
+
+}
+
+[Command("troybois")]
+public async Task troybois()
+{
+    await ReplyAsync($"yeet yeet");
+
+}
+[Command("in the zone?")]
+public async Task zone()
+{
+    await ReplyAsync($"yup");
+
+}
+[Command("this is a pretty good bot")]
+public async Task goodbot()
+{
+    await ReplyAsync($"thank you");
+
+}
+[Command("hatebin")]
+public async Task hatebin()
+{
+    await ReplyAsync($"this is what evrything was in");
+
+}
+[Command("business")]
+public async Task business()
+{
+    await ReplyAsync($"I'm sorry, but its just buisness");
+
+}
+[Command("CharlietheUnicorn")]
+public async Task charlietheunicron()
+{
+    await ReplyAsync($"Chaaaaarlieee");
+
+}
+[Command("Candy mountain")]
+public async Task cansymountain()
+{
+    await ReplyAsync($"common charlie, lets go to candy mountain");
+
+}
+[Command("marioyou")]
+public async Task marioooo()
+{
+    await ReplyAsync($"yaaahooo");
+
+}
+[Command("luigiyou")]
+public async Task luigiiii()
+{
+    await ReplyAsync($"yeeehoooo");
+
+}
+[Command("haltosis")]
+public async Task halotosis()
+{
+    await ReplyAsync($"bad breath time");
+
+}
+[Command("goodtimes")]
+public async Task goodtimes()
+{
+    await ReplyAsync($"good times in la");
+
+}
+[Command("racism")]
+public async Task racism()
+{
+    await ReplyAsync($"that is a bad thing, and somthing that cannot be covered in the limits of a discord bot");
+
+}
+
+[Command("racist")]
+public async Task racist()
+{
+    await ReplyAsync($"don't be please");
+
+}
+[Command("sick flying")]
+public async Task sickflying()
+{
+    await ReplyAsync($"don't fly when sick you dummy");
+
+}
+[Command("lickingwounds")]
+public async Task lickingwounds()
+{
+    await ReplyAsync($"you do that as a primal response");
+
+}
+[Command("advice")]
+public async Task advice()
+{
+    await ReplyAsync($"don't fly with a head cold, you can lose you hearing if you do.");
+
+}
+[Command("ladyinareflectivejacket")]
+public async Task ladyinareflectivejacket()
+{
+    await ReplyAsync($"babycart bell hops");
+
+}
+[Command("seetheabove")]
+public async Task seetheabove()
+{
+    await ReplyAsync($"it was a gamegrumps refrence");
+
+}
+[Command("crying babys")]
+public async Task babys()
+{
+    await ReplyAsync($"they are very annoying, but for some reason my parents likes it when they hear other people's babys cry. They think it is cute.");
+
+}
+[Command("Arin and dan")]
+public async Task arindan()
+{
+    await ReplyAsync($"hace the most perfect relationship you can have");
+
+}
+[Command("jinsu")]
+public async Task jinsu()
+{
+    await ReplyAsync($"hwang");
+
+}
+[Command("one punch man")]
+public async Task onepounchman()
+{
+    await ReplyAsync($"Kaboosh");
+
+}
+[Command("dingo")]
+public async Task dingo()
+{
+    await ReplyAsync($"dingo dango");
+
+}
+[Command("bango")]
+public async Task bongo()
+{
+    await ReplyAsync($"bango bongo");
+
+}
+[Command("congo")]
+public async Task congo()
+{
+    await ReplyAsync($"congo cango");
+
+}
+[Command("kangaroo")]
+public async Task kangaroo()
+{
+    await ReplyAsync($"hip, hop a hippy a hip hop a dippy, don't stop it hoppin");
+
+}
+[Command("did you know")]
+public async Task didyouknow()
+{
+    await ReplyAsync($"We are aming to create over a thousand commands to this bots");
+
+}
+[Command("sound proof bots")]
+public async Task smmon()
+{
+    await ReplyAsync($"this is not somthing this is");
+
+}
+[Command("baby seats")]
+public async Task babyseats()
+{
+    await ReplyAsync($"why are they always on backwards");
+
+}
+[Command("triangle")]
+public async Task triangle()
+{
+    await ReplyAsync($"ding dong");
+
+}
+[Command("square")]
+public async Task square()
+{
+    await ReplyAsync($"gong gong");
+
+}
+[Command("pentagon")]
+public async Task pentagon()
+{
+    await ReplyAsync($"dong ding");
+
+}
+[Command("septagon")]
+public async Task septagon()
+{
+    await ReplyAsync($"seven side 7 angles");
+
+}
+[Command("octogon")]
+public async Task octogon()
+{
+    await ReplyAsync($"bing bing");
+
+}
+[Command("cockpit")]
+public async Task cockpit()
+{
+    await ReplyAsync($"why do pilots always mak jokes when they are flying th plane");
+
+}
+[Command("dirtysecret")]
+public async Task dirtysecret()
+{
+    await ReplyAsync($"My dirty secret is that I dont really like jontron when he was in the game grumps.");
+
+}
+[Command("funtimes")]
+public async Task funtimes()
+{
+    await ReplyAsync($"you always have to look for funtimes");
+
+}
+[Command("common man is")]
+public async Task commonmanis()
+{
+    await ReplyAsync($"the salt of the earth");
+
+}
+[Command("I'm bad on planes")]
+public async Task planesarebadplease()
+{
+    await ReplyAsync($"I just can't stay still on a plane");
+
+}
+[Command("water")]
+public async Task water()
+{
+    await ReplyAsync($"water is good for you drink it");
+
+}
+[Command("cactus juice")]
+public async Task cactus()
+{
+    await ReplyAsync($"its the quenchiest");
+
+}
+[Command("lose")]
+public async Task lose()
+{
+    await ReplyAsync($" is this lose");
+
+}
+[Command("soleanna")]
+public async Task soleanna()
+{
+    await ReplyAsync($"sonic city");
+
+}
+[Command("flight")]
+public async Task flight()
+{
+    await ReplyAsync($"that is somthing that is very cool to do");
+
+}
+[Command("bee movie")]
+public async Task beemovie()
+{
+    await ReplyAsync($"it should be impossible for bees to fly, there I did it");
+
+}
+[Command("drugs")]
+public async Task drugs()
+{
+    await ReplyAsync($"drugs are bad for you. Don't do it you dummy.");
+
+}
+[Command("dummy thicc")]
+public async Task dummythicc()
+{
+    await ReplyAsync($"pretty thicc my dude");
+
+        }
+[Command("old spice")]
+public async Task oldspice()
+{
+    await ReplyAsync($"the scent that defines a generation");
+
+}
+
+       
+
+
+
+
+
     }
 
 
