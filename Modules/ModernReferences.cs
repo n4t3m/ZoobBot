@@ -1001,6 +1001,148 @@ namespace ShitpostBot
 
         }
 
+        //simpsons
+
+        [Command("krustyhotline")]
+        public async Task KrustyHotline()
+        {
+            await ReplyAsync($"*$2 for the first minute, 50 cents for each additional moment");
+
+        }
+
+        [Command("hereareyourgrades")]
+        public async Task GradesSimp()
+        {
+            await ReplyAsync($"*Much obliged doll*");
+
+        }
+
+        [Command("bringimplementsofdestruction")]
+        public async Task dteoyschkool()
+        {
+            await ReplyAsync($"*Lets trash this dump*");
+
+        }
+
+        [Command("foxnetwork")]
+        public async Task FoxNetwork()
+        {
+            await ReplyAsync($"This is the worst network in the history of networks");
+
+        }
+
+        [Command("presidentoverthrown")]
+        public async Task presovert()
+        {
+            await ReplyAsync($"All hail Kraum, and his glorious new regime. \nSincerely, Little Girl.");
+
+        }
+
+        [Command("classickrusty")]
+        public async Task ClassicKrusty()
+        {
+            await ReplyAsync($"*We will be discussing labor.");
+
+        }
+
+        [Command("comedycenteral")]
+        public async Task NicotinePatch()
+        {
+            await ReplyAsync($"*NO. RUDNER.*");
+
+        }
+
+        [Command("bringmeanicotinepatch")]
+        public async Task beingmeanicotinepatch()
+        {
+            await ReplyAsync($"I think there's some room on my ass");
+
+        }
+
+        [Command("wasitanicehat")]
+        public async Task GiveawayStatus()
+        {
+            await ReplyAsync($"Oh yeah.");
+
+        }
+
+        [Command("letsplayagame")]
+        public async Task gamelist()
+        {
+            await ReplyAsync($"*How about a sitting stil contest? While silent!*");
+
+        }
+
+        [Command("scrabble")]
+        public async Task Scrabble()
+        {
+            await ReplyAsync($"Only God can make words");
+
+        }
+
+        [Command("yahtzee")]
+        public async Task Yahtzee()
+        {
+            await ReplyAsync($"Dice are Satan's bones.");
+
+        }
+
+        [Command("skippingiscool")]
+        public async Task SkippingIsCool()
+        {
+            await ReplyAsync($"*Especially while holdng your brother's hand!");
+
+        }
+
+        [Command("hellno")]
+        public async Task HellNo()
+        {
+            await ReplyAsync($"I said I don't want any damned vegtables.");
+
+        }
+
+        [Command("nobiblestories")]
+        public async Task NoBibleStories()
+        {
+            await ReplyAsync($"*cries*");
+
+        }
+
+        [Command("shouldwetelldaddy")]
+        public async Task TellDaddy()
+        {
+            await ReplyAsync($"Let's poke him a little while longer");
+
+        }
+
+        [Command("harrypotter")]
+        public async Task C()
+        {
+            await ReplyAsync($"Harry Potter and all his witch friends went straight to hell for practicing witchcraft");
+
+        }
+
+        [Command("areyoujealousofhomer")]
+        public async Task TOdJe()
+        {
+            await ReplyAsync($"I'm  jealous of girls because they get to wear dresses.");
+
+        }
+
+        [Command("imaginationchristmas")]
+        public async Task ImagChrist()
+        {
+            await ReplyAsync($"Yay! Imagination Christmas");
+
+        }
+
+        [Command("religiousfit")]
+        public async Task CreatorCode()
+        {
+            await ReplyAsync($"I said a fit not a fervour!");
+
+        }
+
 
 
 
