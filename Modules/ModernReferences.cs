@@ -2970,6 +2970,168 @@ namespace ShitpostBot
 
         }
 
+        //unknown
+
+
+        [Command("Unknown A")]
+        public async Task UA()
+        {
+            await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4201-Unown-A.png");
+
+        }
+        [Command("Unknown B")]
+        public async Task UB()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4202-Unown-B.png");
+
+        }
+        [Command("Unknown C")]
+        public async Task UC()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4203-Unown-C.png");
+
+        }
+        [Command("Unknown D")]
+        public async Task UD()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4204-Unown-D.png");
+
+        }
+        [Command("Unknown E")]
+        public async Task UE()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4205-Unown-E.png");
+
+        }
+        [Command("Unknown F")]
+        public async Task UF()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4206-Unown-F.png");
+
+        }
+        [Command("Unknown G")]
+        public async Task UG()
+        {
+            await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4207-Unown-G.png");
+
+        }
+        [Command("Unknown H")]
+        public async Task UH()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4208-Unown-H.png");
+
+        }
+        [Command("Unknown I")]
+        public async Task UI()
+        {
+            await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4209-Unown-I.png");
+
+        }
+        [Command("Unknown J")]
+        public async Task UJ()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4210-Unown-J.png");
+
+        }
+        [Command("Unknown K")]
+        public async Task UK()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4211-Unown-K.png");
+
+        }
+        [Command("Unknown L")]
+        public async Task UL()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4212-Unown-L.png");
+
+        }
+        [Command("Unknown M")]
+        public async Task UM()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4213-Unown-M.png");
+
+        }
+        [Command("Unknown N")]
+        public async Task UN()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/pokemon/images/0/0b/201Unown_N_Dream.png/revision/latest?cb=20141206092645");
+
+        }
+        [Command("Unknown O")]
+        public async Task UO()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4215-Unown-O.png");
+
+        }
+        [Command("Unknown P")]
+        public async Task UP()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-800-800/4216-Unown-P.png");
+
+        }
+        [Command("Unknown Q")]
+        public async Task UQ()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4217-Unown-Q.png");
+
+        }
+        [Command("Unknown R")]
+        public async Task UR()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4218-Unown-R.png");
+
+        }
+        [Command("Unknown S")]
+        public async Task US()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4219-Unown-S.png");
+
+        }
+        [Command("Unknown T")]
+        public async Task UT()
+        {
+            await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4220-Unown-T.png");
+
+        }
+        [Command("Unknown U")]
+        public async Task UU()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4221-Unown-U.png");
+
+        }
+        [Command("Unknown V")]
+        public async Task UV()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4222-Unown-V.png");
+
+        }
+        [Command("Unknown W")]
+        public async Task UW()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4223-Unown-W.png");
+
+        }
+        [Command("Unknown X")]
+        public async Task UX()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4224-Unown-X.png");
+
+        }
+        [Command("Unknown Y")]
+        public async Task UY()
+        {
+            await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4225-Unown-Y.png");
+
+        }
+        [Command("Unknown Z")]
+        public async Task UZ()
+        {
+            await ReplyAsync($"https://i.ya-webdesign.com/images/pokemon-question-mark-png-13.png");
+
+        }
+
+
+
         //random
 
         [Command("greninja")]
