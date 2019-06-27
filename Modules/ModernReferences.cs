@@ -1143,6 +1143,110 @@ namespace ShitpostBot
 
         }
 
+        [Command("money")]
+        public async Task moneysp()
+        {
+            await ReplyAsync($"*Money can be exchanged for Goods and Services*");
+
+        }
+
+        [Command("reversepsychology")]
+        public async Task CRvPsy()
+        {
+            await ReplyAsync($"Don't use reverse psychology. \n*Ok I will*");
+
+        }
+
+        [Command("herlegendwillliveforever")]
+        public async Task DofFaceLegend()
+        {
+            await ReplyAsync($"The legend of the dog faced legend!");
+
+        }
+
+        [Command("highschoolreunion")]
+        public async Task HSReunion()
+        {
+            await ReplyAsync($"I ate those fancy soaps you bought for the bathroom. Oh, I also never graduated from high school");
+
+        }
+
+        [Command("spendtimewiththeboy")]
+        public async Task Cspendtimewiththeboy()
+        {
+            await ReplyAsync($"I can't spend time with the girl, I don't understand her.");
+
+        }
+
+        [Command("whothedevilareyou")]
+        public async Task whothedevilareyou()
+        {
+            await ReplyAsync($"*My name is Mr. Burns!*");
+
+        }
+
+        [Command("lisaneedsbraces")]
+        public async Task ldbraces()
+        {
+            await ReplyAsync($"*Dental Plan*");
+
+        }
+
+        [Command("dentalplan")]
+        public async Task DentalPlan()
+        {
+            await ReplyAsync($"*Lisa needs braces*");
+
+        }
+
+        [Command("whyareyousinging")]
+        public async Task whysinghomer()
+        {
+            await ReplyAsync($"I got a small role in a local Broadway musical.");
+
+        }
+
+        [Command("slow")]
+        public async Task HomerSlow()
+        {
+            await ReplyAsync($"*They called you slow*");
+
+        }
+
+        [Command("think")]
+        public async Task thinkhomer()
+        {
+            await ReplyAsync($"*eathepuddingeatthepuddingeatthepudding*");
+
+        }
+
+        [Command("thinklikeflanders")]
+        public async Task ThinkLikeFlanders()
+        {
+            await ReplyAsync($"*I'm a big four eyed lamo, and I wear the same stupid sweater everyday...");
+
+        }
+
+        [Command("icanthearmyselfthink")]
+        public async Task HearThonk()
+        {
+            await ReplyAsync($"*I want some peanuts*");
+
+        }
+
+        [Command("timetogotowork")]
+        public async Task RollInat9()
+        {
+            await ReplyAsync($"*Off to the plant, and the to the Duff Brewery");
+
+        }
+
+        [Command("ciderorjuice")]
+        public async Task CiderORJuice()
+        {
+            await ReplyAsync($"*If it's clear and yella, you got juice there fellah! If its tangy and brown you're in cider town.");
+
+        }
 
         //smash
 
