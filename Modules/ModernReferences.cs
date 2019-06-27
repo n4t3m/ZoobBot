@@ -340,7 +340,79 @@ namespace ShitpostBot
 
         }
 
-        
+        //Minecraft
+
+
+        [Command("steve")]
+        public async Task MCSteve()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/yREPsdLf1Yo/maxresdefault.jpg");
+
+        }
+
+        [Command("waterbucket")]
+        public async Task WaterBucket()
+        {
+            await ReplyAsync($"https://v.redd.it/741we5dy99w21");
+
+        }
+
+        [Command("bedtrick")]
+        public async Task BedTrick()
+        {
+            await ReplyAsync($"https://v.redd.it/6yx4903ffbv21");
+
+        }
+
+        [Command("diamonds")]
+        public async Task Diamonds()
+        {
+            await ReplyAsync($"**YOU FOUND DIAMONDS**\nhttps://i.imgur.com/naD0Q.png");
+
+        }
+
+        [Command("emeralds")]
+        public async Task Emeralds()
+        {
+            await ReplyAsync($"**YOU FOUND EMERALDS**\nhttps://www.wikihow.com/images/thumb/3/37/Find-Emeralds-in-Minecraft-Step-4.jpg/aid6132018-v4-728px-Find-Emeralds-in-Minecraft-Step-4.jpg");
+
+        }
+
+        [Command("iron")]
+        public async Task Iron()
+        {
+            await ReplyAsync($"**YOU FOUND IRON!**\nhttps://i.imgur.com/PauRWfG.png");
+
+        }
+
+        [Command("coal")]
+        public async Task Coal()
+        {
+            await ReplyAsync($"*Meh, you found some coal*\nhttps://i.imgur.com/FMAP7oG.png");
+
+        }
+
+        [Command("fallenkingdom")]
+        public async Task FallenKingdom()
+        {
+            await ReplyAsync($"https://thumbs.gfycat.com/DecisiveCircularKiskadee-max-1mb.gif");
+
+        }
+
+        [Command("takebackthenight")]
+        public async Task TakeBackTheNight()
+        {
+            await ReplyAsync($"https://thumbs.gfycat.com/TemptingVainImago-size_restricted.gif");
+
+        }
+
+        [Command("swingmysword")]
+        public async Task SwingMySword()
+        {
+            await ReplyAsync($"**TOBUSCUS**\nhttps://thumbs.gfycat.com/FriendlyMasculineCrownofthornsstarfish-size_restricted.gif");
+
+        }
+
         /*
         [Command("creatorcode")]
         public async Task CreatorCode()
