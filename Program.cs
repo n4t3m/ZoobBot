@@ -102,14 +102,6 @@ namespace ShitpostBot
             }
         }
 
-        //private async Task MessageUpdated(Cacheable<IMessage, ulong> before, SocketMessage after, ISocketMessageChannel channel)
-        //{
-         //   //SocketUser u = new SocketUser();
-          //  var message = await before.GetOrDownloadAsync();
-           // Console.WriteLine($"{message} -> {after}");
-            //await SendMessageAsync($"A message has been updated!! NOTHING SNEAKS PAST THE ZOOB. THE ZOOB IS ALL SEEING. {message} -> {after}");
-       // }
-
 
         private Task Log(LogMessage msg)
         {
