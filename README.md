@@ -10,6 +10,8 @@ Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features
 
 Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.
 
+[![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/cahSZvN)
+
 #### Setup/Install
 
 #### Commands
