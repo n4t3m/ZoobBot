@@ -731,7 +731,7 @@ namespace ShitpostBot
         [Command("Corki")]
         public async Task Corki()
         {
-            await ReplyAsync($"https://tenor.com/R6pw.gif ");!ssbu
+            await ReplyAsync($"https://tenor.com/R6pw.gif ");
 
         }
 
