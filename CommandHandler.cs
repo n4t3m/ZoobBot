@@ -34,7 +34,7 @@ public class CommandHandler
     }
     public void code()
     {
-
+        //code owo
     }
     public async Task HandleCommand(SocketMessage s)
     {
