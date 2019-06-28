@@ -1388,7 +1388,7 @@ namespace ShitpostBot
 
         }
 
-        [Command("Talyah")]
+        [Command("Taliyah")]
         public async Task Taliyah()
         {
             await ReplyAsync($"erect a wall");
