@@ -660,6 +660,101 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 |!racism
 |!racist
 |!ssbu 
+
+
+|!ssbu mario
+|!ssbu peach
+|!ssbu luigi
+|!ssbu bowser
+|!ssbu dr. mario
+|!ssbu donkey kong
+|!ssbu diddy kong
+|!ssbu link
+|!ssbu zelda
+|!ssbu sheik
+|!ssbu samus
+|!ssbu zero suit samus
+|!ssbu kirby
+|!ssbu meta knight
+|!ssbu king dedede
+|!ssbu pikachu
+|!ssbu jigglypuff
+|!ssbu pichu
+|!ssbu mewtwo
+|!ssbu pokemon trainer
+|!ssbu lucario
+|!ssbu greninja
+|!ssbu captain falcon
+|!ssbu ness
+|!ssbu lucas
+|!ssbu ike
+|!ssbu lucina
+|!ssbu robin
+|!ssbu corrin
+|!ssbu mr.game & watch
+|!ssbu wario
+|!ssbu olimar
+|!ssbu r.o.b.
+|!ssbu villager
+|!pink wii fit trainer
+|!ssbu snake
+|!ssbu sonic
+|!ssbu mega man
+|!ssbu pac-man
+|!ssbu mii brawler
+|!ssbu mii swordfighter
+|!ssbu daisy
+|!ssbu piranha plant
+|!ssbu king k. rool
+|!ssbu ridley
+|!ssbu dark samus
+|!ssbu inkling
+|!ssbu ken
+|!ssbu simon
+|!ssbu richter
+|!ssbu joker
+|!ssbu bowser jr.
+|!ssbu rosalina
+|!ssbu yoshi
+|!ssbu young link
+|!ssbu ganondorf
+|!ssbu toon link
+|!ssbu wolf
+|!ssbu falco
+|!ssbu fox
+|!ssbu ice climbers
+|!ssbu marth
+|!ssbu roy
+|!ssbu pit
+|!ssbu palutena
+|!ssbu dark pit
+|!ssbu little mac
+|!ssbu shulk
+|!ssbu duck hunt
+|!ssbu ryu
+|!ssbu cloud
+|!ssbu bayonetta
+|!ssbu mii gunner
+|!ssbu incineroar
+|!ssbu chrom
+|!ssbu isabelle
+|!ssbu hero
+|!ssbu banyo & kazooie
+|!ssbu galeem
+|!ssbu master hand
+|!ssbu giga bowser
+|!ssbu ggalleom
+|!ssbu rathalos
+|!ssbu dharkon
+|!ssbu crazy hand
+|!ssbu marx
+|!ssbu ganon
+|!ssbu dracula
+|!ssbu metal face
+|!ssbu yellow devil
+|!ssbu sark emperor
+
+
 | writemorehere
 |!botwrain
 |!koroks
