@@ -6,9 +6,9 @@
 ### Zoob Bot
 Have you every thought "Hey, how many memes can be crammed into a single discord bot over the course of 4 days?"  Probably not.... But we did! 
 
-Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over 1,000 commands filled with shitty and cancerous memes, jokes, pop culture references, and games.
+Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over **1,000 commands**, yes, **ONE THOUSAND COMMANDS** filled with shitty and cancerous memes, jokes, pop culture references, and games.
 
-Zoob Bot was developed in the minds of Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.
+Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.
 
 #### Setup/Install
 
