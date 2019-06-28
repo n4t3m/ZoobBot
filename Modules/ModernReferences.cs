@@ -2970,6 +2970,85 @@ namespace ShitpostBot
 
         }
 
+        [Command("powerup")]
+        public async Task PowerUp()
+        {
+            await ReplyAsync($"  https://tenor.com/2uh5.gif    ");
+
+        }
+
+        [Command("Happiness")]
+        public async Task Happiness()
+        {
+            await ReplyAsync($"  https://tenor.com/vBK0.gif    ");
+
+        }
+
+        [Command("RussainRouletteRV")]
+        public async Task RussianRouletteRV()
+        {
+            await ReplyAsync($"  https://tenor.com/zkOE.gif    ");
+
+        }
+
+        [Command("badboy")]
+        public async Task Badboy()
+        {
+            await ReplyAsync($"  https://tenor.com/8pfC.gif    ");
+
+        }
+
+        [Command("reallybadboy")]
+        public async Task ReallyBadBoy()
+        {
+            await ReplyAsync($"  https://tenor.com/45h6.gif    ");
+
+        }
+
+        [Command("icecreamcake")]
+        public async Task IceCreamCake()
+        {
+            await ReplyAsync($"  https://tenor.com/3zQY.gif    ");
+
+        }
+
+        [Command("dumbdumb")]
+        public async Task DumbDumb()
+        {
+            await ReplyAsync($"  https://tenor.com/V4KO.gif     ");
+
+        }
+
+        [Command("zimzalabim")]
+        public async Task zimzalabim()
+        {
+            await ReplyAsync($"  https://tenor.com/8ykM.gif     ");
+
+        }
+
+        [Command("peekaboo")]
+        public async Task peekaboo()
+        {
+            await ReplyAsync($"  https://tenor.com/6qu8.gif   ");
+
+        }
+
+        [Command("redflavor")]
+        public async Task redflavor()
+        {
+            await ReplyAsync($"  https://tenor.com/MVuc.gif    ");
+
+        }
+
+        [Command("rookie")]
+        public async Task rookie()
+        {
+            await ReplyAsync($"  https://tenor.com/G5LW.gif    ");
+
+        }
+
+
+
         //unknown
 
 
