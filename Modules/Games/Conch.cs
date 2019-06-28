@@ -54,7 +54,7 @@ namespace ShitpostBot
                 }
                 if (answer == 8)
                 {
-                    await ReplyAsync("Try asking again.");
+                    await ReplyAsync("Try asking again!");
 
                 }
 
