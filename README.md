@@ -1,6 +1,6 @@
 
 
-
+![Discord Hack Week Banner](https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg)
 
 ### ZoobBot
 Zoob Bot is a bot made for Discord Hack Week 2019 and features over 500 commands (even we arnt sure, we lost count a while back) for shitty memes, jokes, and pop culture references. As well as other things, that are equally shitty. 
