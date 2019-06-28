@@ -674,8 +674,6 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!racism
 |!racist
 |!ssbu 
-
-
 |!ssbu mario
 |!ssbu peach
 |!ssbu luigi
@@ -767,9 +765,6 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!ssbu metal face
 |!ssbu yellow devil
 |!ssbu sark emperor
-
-
-| writemorehere
 |!botwrain
 |!koroks
 |!botwselfie
