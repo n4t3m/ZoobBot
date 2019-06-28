@@ -20,7 +20,7 @@ namespace ShitpostBot
             if (bullet == 1)
             {
                 var channel = await mention.GetOrCreateDMChannelAsync();
-                await channel.SendMessageAsync(reason == null ? $"You've been kicked from {Context.Guild.Name}. You've Died. Return if you dare. https://discord.gg/cahSZvN" : $"You've been kicked from {Context.Guild.Name}. You've Died. Return if you dare. https://discord.gg/cahSZvN%22");
+                await channel.SendMessageAsync(reason == null ? $"You've been kicked from {Context.Guild.Name}. You've died in a game of Russian Roulette. Return if you dare. https://discord.gg/cahSZvN" : $"You've been kicked from {Context.Guild.Name}. You've died in a game of Russian Roulette. Return if you dare. https://discord.gg/cahSZvN%22");
                 await Task.Delay(2000);
                 await mention.KickAsync();
 
