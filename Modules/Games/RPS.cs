@@ -20,11 +20,11 @@ namespace ShitpostBot
                 int winner = new Random().Next(1, 4);
                 if (winner == 1)
                 {
-                    await ReplyAsync($"You Won!");
+                    await ReplyAsync($"You Win!");
                 }
                 else
                 {
-                    await ReplyAsync($"You Lose Dumbass");
+                    await ReplyAsync($"You Lost :(");
                 }
             }
             else
