@@ -13,6 +13,23 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 [![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/cahSZvN) [![BotInvite](https://img.shields.io/badge/Invite%20bot-Click%20here-ff69b4.svg "Invite the bot to your server")](https://discordapp.com/oauth2/authorize?client_id=592952933327437828&scope=bot&permissions=8)
 
 #### Setup/Install
+ 1. Download .NET Core Runtime from [here](https://dotnet.microsoft.com/download).
+ 2. Download .NET Core SDK from [here](https://dotnet.microsoft.com/download).
+ 3. Unpack and install both of these. 
+ 4. Restart your computer.
+ 5. Go to our [Github Repository](https://github.com/NateM135/ZoobBot) and find the Green button that says clone or download. Click it and select Download Zip.
+ 6. Extract the contents of the zip to a file explorer of your choosing.
+ 7. Open the Program.cs file in a text editor of your choosing, I suggest [Notepad++](https://notepad-plus-plus.org/).
+ 8. Find the line Client.LoginAsync, and in the middle parameter after Discord.TokenType.Bot, place your Discord Bot token. If you do not know what a token is, you can search up a guide on Google. I suggest that you use [this guide.](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
+ 9. Save your Program.cs file and close out of it.
+ 10. Open up a command prompt with Administrator permissions (In Windows 10, click the Cortana Search bar on the bottom left hand corner and type Command Prompt, right click on it and click Run as Administrator. 
+ 11. Open the folder that the bot files were unzipped to. Double click the folder name in the upper bar and copy the file path. 
+ 12. In the Command Prompt type cd and then paste in the file path. Note: You cannot paste a filepath using Control + V, you HAVE TO RIGHT CLICK AND SELECT PASTE.
+ 13. Type dotnet run. 
+ 14. The bot should now run! Once you see the message "patrick is cute" then the bot is starting to initialize. Once the second gateway message is sent, the bot is online! 
+ 
+
+
 
 #### Commands
 
@@ -85,59 +102,257 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!meme wholesome|Displays a random meme orginating from the wholesome subreddit.
 |!meme hydrohomies|Displays a random meme orginating from the hydro hommie subreddit.
 
-
-
-
-|Modern Refrences
+|General Gaming/Memes (GAMERS ONLY)
 |-
-|!etika
-|!meandtheboys
-|!2b2t
-|!karen
-|!chungus
-|!ticktok
-|!crabrave
-|!bowsette
-|!thisissosad
-|!alexaplaydespacito
-|!ligma
-|!sugma
-|!ninja
-|!foreveralone
-|!trollface
-|!lenny
-|!megusta
-|!nomegusta
-|!pepe
-|!notbad
-|!smalls
-|!trump
-|!pelosi
-|!career
-|!felicia
-|!walkin
-|!homer
-|!nothingatall
-|!steamedhams
-|!fact
+|!nintendo slogan      
+|!shigeru miyamoto     
+|!toad says      
+|!reggie       
+|!mario says      
+|!youngster says      
+|!shigeru miyamoto says
+|!end of mario    
+|!ssbu waluigi 
+|!stop reset
+|!hey listen      
+|!super mario galaxy
+|!satoru iwata      
+|!Wii U slogan       
+|!dangerous      
+|!jokers     
+|!nintendo ds slogan      
+|!stay off   
+|!sega saturn
+|!turbografx-16     
+|!intellivision       
+|!xbox one      
+|!neo-geo aes      
+|!ps3    
+|!magnavox odyssey       
+|!sega master system       
+|!nintendo wii      
+|!sega dreamcast      
+|!ps4      
+|!sega genesis     
+|!xbox 360      
+|!nintendo 64      
+|!ps2     
+|!snes     
+|!atari 2600
+|!NES
+|!nintendo switch
+|!gameboy advance
+|!nintendo 3ds
+|!cuphead  
+|!celeste        
+|!super meat boy       
+|!hollow knight     
+|!terraria      
+|!enter the gundeon
+|!papers, please      
+|!the binding of issac      
+|!don't starve together       
+|!axiom verge      
+|!return of the obra dinn       
+|!machinarium     
+|!moonlighter       
+|!hzd
+|!horizon zero dawn      
+|!gow 
+|!god of war  
+|!sekiro
+|!sekiro shadows die twice
+|!BOI 
+|!sick flying
+|!lickingwounds
+|!advice
+|!ladyinareflectivejacket
+|!seetheabove
+|!crying babys
+|!Arin and dan
+|!jinsu
+|!one punch man
+|!dingo
+|!bango
+|!congo
+|!kangaroo
+|!did you know
+|!sound proof bots
+|!baby seats
+|!triangle
+|!square
+|!pentagon
+|!septagon
+|!octogon
+|!cockpit
+|!dirtysecret
+|!funtimes
+|!common man is
+|!I'm bad on planes
+|!water
+|cactus juice
+|!lose
+|!soleanna
+|!flight
+|!bee movie
+|!drugs
+|!dummy thicc
+|!old spice
+|!aot
+|!mikasa
+|!rem
+|!todoroki
+|!bakugou
+|!uraraka
+|!ed
+|!al
+|!avatar
+|!hyperbeam
+|!fireblast
+|!shadowclonejutsu
+|!nani
+|!baka
+|!fresh
+|!drip
+|!micdrop
+|!heartshaker
+|!likey
+|!yesoryes
+|!fancyyou
+|!woah
+|!yeet
+|!stare
+|!bruh
+|!thicc
+|!spin
+|!02
+|!ricardo
+|!gachi
+|!shit
+|!die
+|!outplayed
+|!okay
+|!lul
+|!omegalul
+|!aqua
+|!explosion
+|!unravel
+|!burger
+|!awesome
+|!nice
+|!smile
+|!gg
+|!ez
+|!ree
+|!wah
+|!luigi
+|!charizard
+|!sit
+|!burrito
+|!ohyeahyeah
+|!pika
+|!oof
+|!rekt
+|!gotem
+|!fbi
+|!snore
+|!flex
+|!rawr
+|!cute
+|!kawaii
+|!cash
+|!yoink
+|!surprised
+|!free
+|!zoom
+|!succ
+|!juice
+|!tea
+|!brain
+|!yum
+|!jam
+|!bop
+|!tp
+|!grind
+|!rage
+|!woosh
+|!happy
+|!zone
+|!sad
+|!killua
+|!yandere
+|!tsundere
+|!loveuwu
+|!bowser
+|!pinrahaplant
+|!chomp
+|!echolenny
+|!bear
+|!lennybrick
+|!vibe
+|!gohard
+|!tablefix
+|!derpface
+|!onoe
+|!gross
+|!hungry
+|!baby
+|!sigh
+|!tilt
+|!salt
+|!salty
+|!thonk
+|!thirsty
+|!hmph
+|!supersaiyan
+|!badass
+|!hackerman
+|!pepega
+|!cheer
+|!smug
+|!salute
+|!sammy
+|!please
+|!fed
+|!praise
+|!pow
+
+|Terminator
+|-
+|!thankyoukanye
 |!hastalavista
 |!illbeback
 |!chopper
+
+|Undertale
+|-
 |!sans
 |!papyrus
 |!toriel
 |!asgore
 |!flowey
 |!forbiddenundertale
-|!thankyoukanye
+
+|Fortnite
+|-
 |!victoryroyale
 |!imfortnitegod
 |!riptilted
 |!droplocation
 |!creatorcode
+|!defaultdance
+|!floss
+|!bestmates
+|!tpose
+
+|PUBG
+|-
 |!bananaman
 |!pubgdriving
 |!dropLocationPUBG
+
+|Minecraft
+|-
 |!steve
 |!waterbucket
 |!bedtrick
@@ -371,6 +586,42 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!seagull
 |!hammer
 |!goats
+|!ana
+|!ashe
+|!baptiste
+|!bastion
+|!brigitte
+|!dva
+|!doomfist
+|!genji
+|!hanzo
+|!junkrat
+|!lucio
+|!mccree
+|!mei
+|!mercy
+|!moira
+|!orisa
+|!pharah
+|!reaper
+|!reinhardt
+|!roadhog
+|!soldier76
+|!sombra
+|!symmetra
+|!torbjorn
+|!tracer
+|!widowmaker
+|!winston
+|!wreckingball
+|!zarya
+|!zenyatta
+
+
+
+
+|Marvel
+|-
 |!love
 |!balance
 |!assemble
@@ -385,7 +636,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!snap
 |!ass
 |!dust
-|!krustyhotline
+
+|Completely Random
+|-
 |!hereareyourgrades
 |!bringimplementsofdestruction
 |!foxnetwork
@@ -425,13 +678,11 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!sakurai
 |!wombocombo
 |!chillin
-|!etika
 |!joycon
 |!hungrybox
-|!ridley
-|!falcon
-|!mewtwo
-|!foxonly
+
+|CSGO
+|-
 |!tierlist
 |!juandeag
 |!boostmeister
@@ -443,6 +694,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!green
 |!knifemid
 |!swag7
+
+|DC
+|-
 |!batman
 |!joker
 |!aquaman
@@ -455,6 +709,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!gamers
 |!flash
 |!shazam
+
+|MOMOLAND (Kpop)
+|-
 |!nancy
 |!yeonwoo
 |!ahin
@@ -463,6 +720,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!hyebin
 |!nayun
 |!jane
+
+|TWICE (Kpop)
+|-
 |!mina
 |!sana
 |!nayeon
@@ -475,7 +735,13 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!yesoryes
 |!fancy
 |!cheerup
-|!oohahh
+||!micdrop
+|!heartshaker
+|!likey
+|!fancyyou
+
+|Red Velvet (Kpop)
+|-
 |!irene
 |!yeri
 |!wendy
@@ -490,6 +756,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!peekaboo
 |!redflavor
 |!rookie
+
+|Modern Pop Music/Recent Hits
+|-
 |!whateverittakes
 |!thisiswhatyoucamefor
 |!rude
@@ -528,6 +797,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!shapeofyou
 |!hipsdontlie
 |!smooth
+
+|Pokemon
+|-
 |!unown a
 |!unown b
 |!unown c
@@ -557,10 +829,22 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!greninja
 |!totodile
 |!quagsire
+|!squirtle
+|!charmander
+|!catchemall
+|!suicune
+
+|Boku No Hero
+|-
 |!detroitsmash
 |!allmight
+
+|Dragon Ball
+|-
 |!kamehameha
-|!defaultdance
+
+|Completely Random
+|-
 |!floss
 |!bestmates
 |!tpose
@@ -571,10 +855,6 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!wooper
 |!quieres
 |!umaru
-|!squirtle
-|!charmander
-|!catchemall
-|!suicune
 |!yourname
 |!fmab
 |!mustang
@@ -604,6 +884,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!glossyboys
 |!moist
 |!charlie chapplin
+
+|Alphabet
+|-
 |!a
 |!b
 |!c
@@ -636,6 +919,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!abc
 |!abcde
 |!wow?
+
+|Random
+|-
 |!thisisaverylongcommand
 |!passport
 |!gibberjabber
@@ -684,6 +970,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!goodtimes
 |!racism
 |!racist
+
+|Smash
+|-
 |!ssbu 
 |!ssbu mario
 |!ssbu peach
@@ -776,6 +1065,13 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!ssbu metal face
 |!ssbu yellow devil
 |!ssbu sark emperor
+|!ridley
+|!falcon
+|!mewtwo
+|!foxonly
+
+|Zelda
+|-
 |!botwrain
 |!koroks
 |!botwselfie
@@ -801,6 +1097,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!sleeping link   
 |!Hhiiyhaa    
 |!zelda plead 
+
+|Splatloon
+|-
 |!agent 3
 |!agent 4
 |!agent 8
@@ -824,220 +1123,41 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!murch
 |!dj octavio
 |!splatfest
-|!nintendo slogan      
-|!shigeru miyamoto     
-|!toad says      
-|!reggie       
-|!mario says      
-|!youngster says      
-|!shigeru miyamoto says
-|!end of mario    
-|!ssbu waluigi 
-|!stop reset
-|!hey listen      
-|!super mario galaxy
-|!satoru iwata      
-|!Wii U slogan       
-|!dangerous      
-|!jokers     
-|!nintendo ds slogan      
-|!stay off   
-|!sega saturn
-|!turbografx-16     
-|!intellivision       
-|!xbox one      
-|!neo-geo aes      
-|!ps3    
-|!magnavox odyssey       
-|!sega master system       
-|!nintendo wii      
-|!sega dreamcast      
-|!ps4      
-|!sega genesis     
-|!xbox 360      
-|!nintendo 64      
-|!ps2     
-|!snes     
-|!atari 2600
-|!NES
-|!nintendo switch
-|!gameboy advance
-|!nintendo 3ds
-|!cuphead  
-|!celeste        
-|!super meat boy       
-|!hollow knight     
-|!terraria      
-|!enter the gundeon
-|!papers, please      
-|!the binding of issac      
-|!don't starve together       
-|!axiom verge      
-|!return of the obra dinn       
-|!machinarium     
-|!moonlighter       
-|!hzd
-|!horizon zero dawn      
-|!gow 
-|!god of war  
-|!sekiro
-|!sekiro shadows die twice
-|!BOI 
-|!sick flying
-|!lickingwounds
-|!advice
-|!ladyinareflectivejacket
-|!seetheabove
-|!crying babys
-|!Arin and dan
-|!jinsu
-|!one punch man
-|!dingo
-|!bango
-|!congo
-|!kangaroo
-|!did you know
-|!sound proof bots
-|!baby seats
-|!triangle
-|!square
-|!pentagon
-|!septagon
-|!octogon
-|!cockpit
-|!dirtysecret
-|!funtimes
-|!common man is
-|!I'm bad on planes
-|!water
-|cactus juice
-|!lose
-|!soleanna
-|!flight
-|!bee movie
-|!drugs
-|!dummy thicc
-|!old spice
-|!aot
-|!mikasa
-|!rem
-|!todoroki
-|!bakugou
-|!uraraka
-|!ed
-|!al
-|!avatar
-|!hyperbeam
-|!fireblast
-|!shadowclonejutsu
-|!nani
-|!baka
-|!fresh
-|!drip
-|!micdrop
-|!heartshaker
-|!likey
-|!woah
-|!yeet
-|!stare
-|!bruh
-|!yesoryes
-|!fancyyou
-|!thicc
-|!spin
-|!winston
-|!bastion
-|!02
-|!ricardo
-|!gachi
-|!shit
-|!die
-|!outplayed
-|!okay
-|!lul
-|!omegalul
-|!aqua
-|!explosion
-|!unravel
-|!burger
-|!awesome
-|!nice
-|!smile
-|!gg
-|!ez
-|!ree
-|!wah
-|!luigi
-|!charizard
-|!sit
-|!burrito
-|!ohyeahyeah
-|!pika
-|!oof
-|!rekt
-|!gotem
-|!fbi
-|!snore
-|!flex
-|!rawr
-|!cute
-|!kawaii
-|!cash
-|!yoink
-|!surprised
-|!free
-|!zoom
-|!succ
-|!juice
-|!tea
-|!brain
-|!yum
-|!jam
-|!bop
-|!tp
-|!grind
-|!rage
-|!woosh
-|!happy
-|!zone
-|!sad
-|!killua
-|!yandere
-|!tsundere
-|!loveuwu
-|!bowser
-|!pinrahaplant
-|!chomp
-|!echolenny
-|!bear
-|!lennybrick
-|!vibe
-|!gohard
-|!tablefix
-|!derpface
-|!onoe
-|!gross
-|!hungry
-|!baby
-|!sigh
-|!tilt
-|!salt
-|!salty
-|!thonk
-|!thirsty
-|!hmph
-|!supersaiyan
-|!badass
-|!hackerman
-|!pepega
-|!cheer
-|!smug
-|!salute
-|!sammy
-|!please
-|!fed
-|!praise
-|!pow
+
+|Random/Modern Memes
+|-
+|!etika
+|!meandtheboys
+|!2b2t
+|!karen
+|!chungus
+|!ticktok
+|!crabrave
+|!bowsette
+|!thisissosad
+|!alexaplaydespacito
+|!ligma
+|!sugma
+|!ninja
+|!foreveralone
+|!trollface
+|!lenny
+|!megusta
+|!nomegusta
+|!pepe
+|!notbad
+|!smalls
+|!trump
+|!pelosi
+|!thankyoukanye
+|!career
+|!felicia
+|!walkin
+|!homer
+|!nothingatall
+|!steamedhams
+|!fact
+|!krustyhotline
 
 
 
