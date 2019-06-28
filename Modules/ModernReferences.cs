@@ -3317,34 +3317,34 @@ namespace ShitpostBot
 
 
 
-        //unknown
+        //unnown
 
 
-        [Command("Unknown A")]
+        [Command("Unown A")]
         public async Task UA()
         {
             await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4201-Unown-A.png");
 
         }
-        [Command("Unknown B")]
+        [Command("Unown B")]
         public async Task UB()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4202-Unown-B.png");
 
         }
-        [Command("Unknown C")]
+        [Command("Unown C")]
         public async Task UC()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4203-Unown-C.png");
 
         }
-        [Command("Unknown D")]
+        [Command("Unown D")]
         public async Task UD()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4204-Unown-D.png");
 
         }
-        [Command("Unknown E")]
+        [Command("Uknown E")]
         public async Task UE()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4205-Unown-E.png");
@@ -3356,121 +3356,121 @@ namespace ShitpostBot
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4206-Unown-F.png");
 
         }
-        [Command("Unknown G")]
+        [Command("Unown G")]
         public async Task UG()
         {
             await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4207-Unown-G.png");
 
         }
-        [Command("Unknown H")]
+        [Command("Unown H")]
         public async Task UH()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4208-Unown-H.png");
 
         }
-        [Command("Unknown I")]
+        [Command("Unown I")]
         public async Task UI()
         {
             await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4209-Unown-I.png");
 
         }
-        [Command("Unknown J")]
+        [Command("Unown J")]
         public async Task UJ()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4210-Unown-J.png");
 
         }
-        [Command("Unknown K")]
+        [Command("Unown K")]
         public async Task UK()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4211-Unown-K.png");
 
         }
-        [Command("Unknown L")]
+        [Command("Unown L")]
         public async Task UL()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4212-Unown-L.png");
 
         }
-        [Command("Unknown M")]
+        [Command("Unown M")]
         public async Task UM()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4213-Unown-M.png");
 
         }
-        [Command("Unknown N")]
+        [Command("Unown N")]
         public async Task UN()
         {
             await ReplyAsync($"https://vignette.wikia.nocookie.net/pokemon/images/0/0b/201Unown_N_Dream.png/revision/latest?cb=20141206092645");
 
         }
-        [Command("Unknown O")]
+        [Command("Unown O")]
         public async Task UO()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4215-Unown-O.png");
 
         }
-        [Command("Unknown P")]
+        [Command("Unown P")]
         public async Task UP()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-800-800/4216-Unown-P.png");
 
         }
-        [Command("Unknown Q")]
+        [Command("Unown Q")]
         public async Task UQ()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4217-Unown-Q.png");
 
         }
-        [Command("Unknown R")]
+        [Command("Unown R")]
         public async Task UR()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4218-Unown-R.png");
 
         }
-        [Command("Unknown S")]
+        [Command("Unown S")]
         public async Task US()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4219-Unown-S.png");
 
         }
-        [Command("Unknown T")]
+        [Command("Unown T")]
         public async Task UT()
         {
             await ReplyAsync($"http://static.pokemonpets.com/images/monsters-images-800-800/4220-Unown-T.png");
 
         }
-        [Command("Unknown U")]
+        [Command("Unown U")]
         public async Task UU()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4221-Unown-U.png");
 
         }
-        [Command("Unknown V")]
+        [Command("Unown V")]
         public async Task UV()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4222-Unown-V.png");
 
         }
-        [Command("Unknown W")]
+        [Command("Unown W")]
         public async Task UW()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4223-Unown-W.png");
 
         }
-        [Command("Unknown X")]
+        [Command("Unown X")]
         public async Task UX()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4224-Unown-X.png");
 
         }
-        [Command("Unknown Y")]
+        [Command("Unown Y")]
         public async Task UY()
         {
             await ReplyAsync($"https://static.pokemonpets.com/images/monsters-images-300-300/4225-Unown-Y.png");
 
         }
-        [Command("Unknown Z")]
+        [Command("Unown Z")]
         public async Task UZ()
         {
             await ReplyAsync($"https://i.ya-webdesign.com/images/pokemon-question-mark-png-13.png");
@@ -4118,7 +4118,8 @@ public async Task nott()
     await ReplyAsync($"nott the brave");
 
 }
-[Command("your breathtaking")]
+[Command("yourebreathtaking")]
+[Alias("youarebreathtaking", "breathtaking")]
 public async Task breathtaking()
 {
     await ReplyAsync($"no, your breathtaking!");
