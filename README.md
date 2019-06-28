@@ -33,6 +33,12 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aur
  
 
 
+#### Non-Command Features
+
+ - Whenever you say I'm ___, Zoob will respond with Hi ___, I'm Zoob!
+ - There is a 10% chance when you type that Zoob will say "Watcha Typin <@user>
+ - If you say hello/hi/greeting/etc, Zoob says hello back. Just some *common decency.*
+ - Advanced curse world filter. Zoob will remind you about his Christian values whenever a naughty, naughty curse word is said in his chatroom.
 
 #### Commands
 
