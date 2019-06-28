@@ -731,14 +731,14 @@ namespace ShitpostBot
         [Command("Corki")]
         public async Task Corki()
         {
-            await ReplyAsync($"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi5hIuvs4rjAhWOrZ4KHUOhCZIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fleagueoflegends%2Fcomments%2Fxedf1%2Fmy_corgi_corki_skin%2F&psig=AOvVaw0lEY-XSFmfsVscFSJ6a03J&ust=1561750290782484");
+            await ReplyAsync($"https://tenor.com/R6pw.gif ");!ssbu
 
         }
 
         [Command("Darius")]
         public async Task Darius()
         {
-            await ReplyAsync($"THats downtown Darius \n https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjtz5LJs4rjAhXXuZ4KHVGeDHwQjRx6BAgBEAU&url=http%3A%2F%2Felohell.net%2Fchill%2F239931%2Fdunking-darius&psig=AOvVaw2S3i61KhLHUYnciEz09RPd&ust=1561750336843242");
+            await ReplyAsync($"Thats downtown Darius \n https://tenor.com/3DSa.gif ");
 
         }
 
@@ -1090,8 +1090,8 @@ namespace ShitpostBot
         }
 
 
-        [Command("Maoki")]
-        public async Task Maoki()
+        [Command("Maokai")]
+        public async Task Maokai()
         {
             await ReplyAsync($"*TreeSM*");
 
@@ -1193,8 +1193,8 @@ namespace ShitpostBot
 
         }
 
-        [Command("Ormn")]
-        public async Task Ormn()
+        [Command("Ornn")]
+        public async Task Ornn()
         {
             await ReplyAsync($"When you can make things but it costs the same to buy it from the shop but the shop gives you infinite health and mana");
 
@@ -1594,7 +1594,7 @@ namespace ShitpostBot
         [Command("Zed")]
         public async Task Zed()
         {
-            await ReplyAsync($"*Look at the");
+            await ReplyAsync($"*Look at the plays look at the moves FAKER WHAT WAS THAT*");
 
         }
 
