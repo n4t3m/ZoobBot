@@ -99,7 +99,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!crabrave
 |!bowsette
 |!thisissosad
-|!despacito
+|!alexaplaydespacito
 |!ligma
 |!sugma
 |!ninja
@@ -160,6 +160,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!bonnie
 |!purpleguy
 |!freddyfaz
+
+|League of Legends
+|-
 |!firstblood
 |!doublekill
 |!triplekil
@@ -322,6 +325,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!zoe
 |!zyra
 |!ziggs
+
+|Spongebob
+|-
 |!leedle
 |!potatosalad
 |!touch
@@ -351,6 +357,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!howcanweeverthankyou
 |!seewhatimean
 |!pat
+
+|Overwatch
+|-
 |!c9
 |!nerf
 |!healing
@@ -644,7 +653,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!bois will be bois
 |!caleb
 |!nott
-|!your breathtaking
+|!yourbreathtaking
+|!breathtaking
+|!you'rebreathtaking
 |!comfort
 |!company
 |!beu
@@ -872,6 +883,163 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!sekiro
 |!sekiro shadows die twice
 |!BOI 
+|!sick flying
+|!lickingwounds
+|!advice
+|!ladyinareflectivejacket
+|!seetheabove
+|!crying babys
+|!Arin and dan
+|!jinsu
+|!one punch man
+|!dingo
+|!bango
+|!congo
+|!kangaroo
+|!did you know
+|!sound proof bots
+|!baby seats
+|!triangle
+|!square
+|!pentagon
+|!septagon
+|!octogon
+|!cockpit
+|!dirtysecret
+|!funtimes
+|!common man is
+|!I'm bad on planes
+|!water
+|cactus juice
+|!lose
+|!soleanna
+|!flight
+|!bee movie
+|!drugs
+|!dummy thicc
+|!old spice
+|!aot
+|!mikasa
+|!rem
+|!todoroki
+|!bakugou
+|!uraraka
+|!ed
+|!al
+|!avatar
+|!hyperbeam
+|!fireblast
+|!shadowclonejutsu
+|!nani
+|!baka
+|!fresh
+|!drip
+|!micdrop
+|!heartshaker
+|!likey
+|!woah
+|!yeet
+|!stare
+|!bruh
+|!yesoryes
+|!fancyyou
+|!thicc
+|!spin
+|!winston
+|!bastion
+|!02
+|!ricardo
+|!gachi
+|!shit
+|!die
+|!outplayed
+|!okay
+|!lul
+|!omegalul
+|!aqua
+|!explosion
+|!unravel
+|!burger
+|!awesome
+|!nice
+|!smile
+|!gg
+|!ez
+|!ree
+|!wah
+|!luigi
+|!charizard
+|!sit
+|!burrito
+|!ohyeahyeah
+|!pika
+|!oof
+|!rekt
+|!gotem
+|!fbi
+|!snore
+|!flex
+|!rawr
+|!cute
+|!kawaii
+|!cash
+|!yoink
+|!surprised
+|!free
+|!zoom
+|!succ
+|!juice
+|!tea
+|!brain
+|!yum
+|!jam
+|!bop
+|!tp
+|!grind
+|!rage
+|!woosh
+|!happy
+|!zone
+|!sad
+|!killua
+|!yandere
+|!tsundere
+|!loveuwu
+|!bowser
+|!pinrahaplant
+|!chomp
+|!echolenny
+|!bear
+|!lennybrick
+|!vibe
+|!gohard
+|!tablefix
+|!derpface
+|!onoe
+|!gross
+|!hungry
+|!baby
+|!sigh
+|!tilt
+|!salt
+|!salty
+|!thonk
+|!thirsty
+|!hmph
+|!supersaiyan
+|!badass
+|!hackerman
+|!pepega
+|!cheer
+|!smug
+|!salute
+|!sammy
+|!please
+|!fed
+|!praise
+|!pow
+
+
 
 
 
