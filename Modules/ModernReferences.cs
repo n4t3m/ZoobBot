@@ -3197,7 +3197,7 @@ namespace ShitpostBot
         }
 
         [Command("RatherBe")]
-        public async RatherBe()
+        public async Task RatherBe()
         {
             await ReplyAsync($"https://tenor.com/o8bG.gif ");
 
@@ -5347,6 +5347,1218 @@ public async Task oldspice()
             await ReplyAsync($"Hiyaah!~ https://tenor.com/2L7u.gif ");
 
         }
+
+
+
+        [Command("botwrain")]
+        public async Task botwrain()
+        {
+            await ReplyAsync($"https://preview.redd.it/yrl5mind6x631.jpg");
+
+        }
+        [Command("koroks")]
+        public async Task koroks()
+        {
+            await ReplyAsync($"https://preview.redd.it/rhy87ac1lx631.jpg?width=960&crop=smart&auto=webp&s=170ebd2104806ce167d17d9e4b9c93e697ee9170");
+
+        }
+        [Command("botwselfie")]
+        public async Task botwselfie()
+        {
+            await ReplyAsync($"https://external-preview.redd.it/Tm16vqJ4nYLxVFNmT78Hy-z0-BwzsT8dyHu6WM5JzzY.jpg");
+
+        }
+        [Command("botwlink")]
+        public async Task botwlink()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/characterprofile/images/c/c8/BotW_Link.png/revision/latest?cb=20170306180639");
+
+        }
+        [Command("botwzelda")]
+        public async Task botwzelda()
+        {
+            await ReplyAsync($"https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/0/0f/BotW_Zelda_Artwork.png/283px-BotW_Zelda_Artwork.png?version=cb59e7c24f0596874c10c2a0ff2a1e24");
+
+        }
+        [Command("mipha")]
+        public async Task mipha()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/d/d9/Mipha_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306080925");
+
+        }
+        [Command("calamity ganon")]
+        public async Task calamityganon()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/fantendo/images/4/4d/BotW_Calamity_Ganon_Artwork.png/revision/latest?cb=20181111060322e");
+
+        }
+        [Command("yiga")]
+        public async Task yiga()
+        {
+            await ReplyAsync($"https://www.zeldadungeon.net/wiki/images/9/9d/Yiga-footsoldier.jpg");
+
+        }
+        [Command("impa")]
+        public async Task impa()
+        {
+            await ReplyAsync($"https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/e/ea/BotW_Impa_Model.png/320px-BotW_Impa_Model.png?version=163708839c026a94e6d449837b1945d5e");
+
+        }
+        [Command("hestu")]
+        public async Task hestu()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/2/22/Breath_of_the_Wild_Hestu_Korok_Musician_Hestu_%28Screenshot%29.png/revision/latest?cb=20170503200935");
+
+        }
+        [Command("great deku tree")]
+        public async Task greatdekutree()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/GOClfWhQeF0/maxresdefault.jpg");
+
+        }
+        [Command("epona")]
+        public async Task epona()
+        {
+            await ReplyAsync($"https://files.gamebanana.com/img/ss/gamefiles/5c2bd9141bfc6.webp");
+
+        }
+        [Command("daruk")]
+        public async Task daruk()
+        {
+            await ReplyAsync($"https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/f/f3/BotW_Daruk_Artwork.png/300px-BotW_Daruk_Artwork.png?version=1a50feb4691fc4b9940fcce0af9c7dd0");
+
+        }
+        [Command("revali")]
+        public async Task revali()
+        {
+            await ReplyAsync($" https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/3/31/BotW_Revali_Artwork.png/300px-BotW_Revali_Artwork.png?version=4059e6541c714fd2101cc508baed1da0 ");
+
+        }
+        [Command("urbosa")]
+        public async Task urbosa()
+        {
+            await ReplyAsync($"https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/c/cf/BotW_Urbosa_Artwork.png/300px-BotW_Urbosa_Artwork.png?version=dc6353d6b147294cfdb114ebd9c291a1o");
+
+        }
+        [Command("botwchart")]
+        public async Task botwchart()
+        {
+            await ReplyAsync($"https://66.media.tumblr.com/1d476b4bb1cda36443da8d418303e01b/tumblr_phzsfdE2vi1rcx9vz_540.jpg.");
+
+        }
+        [Command("vah medoh")]
+        public async Task vahmedoh()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/1/12/Vah_medoh.png/revision/latest/scale-to-width-down/350?cb=20170228171100");
+
+        }
+        [Command("vah naboris")]
+        public async Task vahnaboris()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/9/9e/Vah_Naboris_%28Breath_of_the_Wild%29.jpg/revision/latest/scale-to-width-down/350?cb=20170311171044");
+
+        }
+        [Command("vah rudania")]
+        public async Task vahrudania()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/1/1c/Vah_Rudania.jpg/revision/latest/scale-to-width-down/350?cb=20170315182211");
+
+        }
+        [Command("vah ruta")]
+        public async Task vahruta()
+        {
+            await ReplyAsync($"https://vignette.wikia.nocookie.net/zelda/images/7/76/Vah_Ruta.jpg/revision/latest/scale-to-width-down/350?cb=20170315182049");
+
+        }
+        [Command("botwsword")]
+        public async Task botwsword()
+        {
+            await ReplyAsync($"https://preview.redd.it/99m7l7h00q631.jpg?width=960&crop=smart&auto=webp&s=698c0f65adce4afe9329c2fbb325e75712108da0");
+
+        }
+        [Command("kass")]
+        public async Task kass()
+        {
+            await ReplyAsync($"https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/2/24/BotW_Kass_Model.png/200px-BotW_Kass_Model.png?version=b38c8ffe81d3751f590d16f01879b642");
+
+        }
+        [Command("agent 3")]
+        public async Task agent3()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/Hero_Suit.png/272px-Hero_Suit.png");
+
+        }
+        [Command("agent 4")]
+        public async Task agent4()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/Agent_4_official_art.png/276px-Agent_4_official_art.png");
+
+        }
+        [Command("agent 8")]
+        public async Task agent8()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/62/SSBU_Octoling_Girl_%26_Octoling_Boy_Spirit.png/181px-SSBU_Octoling_Girl_%26_Octoling_Boy_Spirit.png");
+
+        }
+        [Command("callie")]
+        public async Task callie()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6f/Callie1.png/150px-Callie1.png");
+
+        }
+        [Command("marie")]
+        public async Task marie()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/Marie1.png/166px-Marie1.png");
+
+        }
+        [Command("pearl")]
+        public async Task pearl()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/73/Pearl.png/143px-Pearl.png");
+
+        }
+
+        [Command("cap'n cuttlefish")]
+        public async Task capncuttlefish()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8a/Capn_cuttlefish_transparent.png/161px-Capn_cuttlefish_transparent.png");
+
+        }
+        [Command("c.q. cumber")]
+        public async Task cqcumber()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/Octo_Expansion_C.Q._Cumber_promo.jpg/334px-Octo_Expansion_C.Q._Cumber_promo.jpg");
+
+        }
+        [Command("judd")]
+        public async Task judd()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e3/Judd_and_Li%27l_Judd.png/257px-Judd_and_Li%27l_Judd.png");
+
+        }
+        [Command("mrgrizz")]
+        public async Task mrgrizz()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/34/Mr-grizz.png/246px-Mr-grizz.png");
+
+        }
+        [Command("iso padre")]
+        public async Task isopadre()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5f/Octo_Expansion_Gusok_promo.jpg/334px-Octo_Expansion_Gusok_promo.jpg");
+
+        }
+        [Command("crusty sean")]
+        public async Task crustysean()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S2_crusty_sean.png/257px-S2_crusty_sean.png");
+
+        }
+        [Command("jelonzo")]
+        public async Task jelonzo()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cf/Jelonzo1.png/255px-Jelonzo1.png");
+
+        }
+        [Command("annie")]
+        public async Task annie()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/Annie1.png/185px-Annie1.png");
+
+        }
+        [Command("sheldon")]
+        public async Task sheldon()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4a/Sheldon_%28Splatoon_2%29.png/257px-Sheldon_%28Splatoon_2%29.png");
+
+        }
+        [Command("spyke")]
+        public async Task spyke()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e4/Spyke_transparent.png/222px-Spyke_transparent.png");
+
+        }
+        [Command("bisk")]
+        public async Task bisk()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/Bisk.png/257px-Bisk.png");
+
+        }
+        [Command("jelfonzo")]
+        public async Task jelfonzo()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/Jelfonzo.png/257px-Jelfonzo.png");
+
+        }
+        [Command("flow")]
+        public async Task flow()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b5/Flow_and_Craymond.png/257px-Flow_and_Craymond.png");
+
+        }
+        [Command("murch")]
+        public async Task murch()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/SSBU_Murch_Spirit.png/163px-SSBU_Murch_Spirit.png");
+
+        }
+        [Command("dj octavio")]
+        public async Task djvoctavio()
+        {
+            await ReplyAsync($"https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/Djoctavio.png/179px-Djoctavio.png");
+
+        }
+        [Command("ssbu mario")]
+        public async Task ssbmario()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/250px-Mario_SSBU.png");
+
+        }
+        [Command("ssbu luigi")]
+        public async Task ssbluigi()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/250px-Luigi_SSBU.png");
+
+        }
+        [Command("ssbu peach")]
+        public async Task ssbupeach()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/7/74/Peach_SSBU.png/250px-Peach_SSBU.png");
+
+        }
+        [Command("ssbu bowser")]
+        public async Task ssbubowser()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/250px-Bowser_SSBU.png");
+
+        }
+        [Command("ssbu dr. mario")]
+        public async Task ssbudrmario()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/3f/Dr._Mario_SSBU.png/250px-Dr._Mario_SSBU.png");
+
+        }
+        [Command("ssbu donkey kong")]
+        public async Task ssbudonkeykong()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c9/Donkey_Kong_SSBU.png/250px-Donkey_Kong_SSBU.png");
+
+        }
+        [Command("ssbu diddy kong")]
+        public async Task ssbudiddykong()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/a/a7/Diddy_Kong_SSBU.png/250px-Diddy_Kong_SSBU.png");
+
+        }
+        [Command("ssbu link")]
+        public async Task ssbulink()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/250px-Link_SSBU.png");
+
+        }
+        [Command("ssbu zelda")]
+        public async Task ssbuzelda()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c8/Zelda_SSBU.png/250px-Zelda_SSBU.png");
+
+        }
+        [Command("ssbu sheik")]
+        public async Task ssbusheik()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/00/Sheik_SSBU.png/250px-Sheik_SSBU.png");
+
+        }
+        [Command("ssbu samus")]
+        public async Task ssbusamus()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/250px-Samus_SSBU.png");
+
+        }
+        [Command("ssbu zero suit samus")]
+        public async Task ssbuzssamus()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/f0/Zero_Suit_Samus_SSBU.png/250px-Zero_Suit_Samus_SSBU.png");
+
+        }
+        [Command("ssbu kirby")]
+        public async Task ssbukirby()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/250px-Kirby_SSBU.png");
+
+        }
+        [Command("ssbu meta knight")]
+        public async Task ssbumetaknight()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/00/Meta_Knight_SSBU.png/250px-Meta_Knight_SSBU.png");
+
+        }
+        [Command("ssbu king dedede")]
+        public async Task ssbukingdedede()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/f5/King_Dedede_SSBU.png/250px-King_Dedede_SSBU.png");
+
+        }
+        [Command("ssbu pikachu")]
+        public async Task ssbupikachu()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/250px-Pikachu_SSBU.png");
+
+        }
+        [Command("ssbu jigglypuff")]
+        public async Task ssbujigglypuff()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/250px-Jigglypuff_SSBU.png");
+
+        }
+        [Command("ssbu pichu")]
+        public async Task ssbupichu()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c1/Pichu_SSBU.png/250px-Pichu_SSBU.png");
+
+        }
+        [Command("ssbu mewtwo")]
+        public async Task ssbumewtwo()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/d/de/Mewtwo_SSBU.png/250px-Mewtwo_SSBU.png");
+
+        }
+        [Command("ssbu pokemon trainer")]
+        public async Task ssbupokemontrainer()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/28/Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png/300px-Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png");
+
+        }
+        [Command("ssbu lucario")]
+        public async Task ssbulucario()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/08/Lucario_SSBU.png/250px-Lucario_SSBU.png");
+
+        }
+        [Command("ssbu greninja")]
+        public async Task ssbugreninja()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/d/da/Greninja_SSBU.png/250px-Greninja_SSBU.png");
+
+        }
+        [Command("ssbu captain falcon")]
+        public async Task ssbucaptainfalcon()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/250px-Captain_Falcon_SSBU.png");
+
+        }
+        [Command("ssbu ness")]
+        public async Task ssbuness()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/250px-Ness_SSBU.png");
+
+        }
+        [Command("ssbu lucas")]
+        public async Task ssbulucas()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/81/Lucas_SSBU.png/250px-Lucas_SSBU.png");
+
+        }
+        [Command("ssbu ike")]
+        public async Task ssbuike()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/86/Ike_SSBU.png/250px-Ike_SSBU.png");
+
+        }
+        [Command("ssbu lucina")]
+        public async Task ssbulucina()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/d/dc/Lucina_SSBU.png/250px-Lucina_SSBU.png");
+
+        }
+
+        [Command("ssbu robin")]
+        public async Task ssburobin()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/82/Robin_SSBU.png/250px-Robin_SSBU.png");
+
+        }
+        [Command("ssbu corrin")]
+        public async Task ssbucorrin()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c4/Corrin_SSBU.png/250px-Corrin_SSBU.png");
+
+        }
+        [Command("ssbu mr.game & watch")]
+        public async Task ssbumrgamenwatch()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/250px-Mr._Game_%26_Watch_SSBU.png");
+
+        }
+        [Command("ssbu wario")]
+        public async Task ssbuwario()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/04/Wario_SSBU.png/225px-Wario_SSBU.png");
+
+        }
+        [Command("ssbu olimar")]
+        public async Task ssbuolimar()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/b/b3/Olimar_SSBU.png/250px-Olimar_SSBU.png");
+
+        }
+        [Command("ssbu r.o.b.")]
+        public async Task ssburob()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/38/R.O.B._%28JPN%29_SSBU.png/250px-R.O.B._%28JPN%29_SSBU.png");
+
+        }
+        [Command("ssbu villager")]
+        public async Task ssbuvillager()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/a/ac/Villager_SSBU.png/240px-Villager_SSBU.png");
+
+        }
+        [Command("pink wii fit trainer")]
+        public async Task ssbuwiifittrainer()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/ff/Wii_Fit_Trainer_SSBU.png/250px-Wii_Fit_Trainer_SSBU.png");
+
+        }
+        [Command("ssbu snake")]
+        public async Task ssbusnake()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/02/Snake_SSBU.png/250px-Snake_SSBU.png");
+
+        }
+        [Command("ssbu sonic")]
+        public async Task ssbusonic()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/b/ba/Sonic_SSBU.png/250px-Sonic_SSBU.png");
+
+        }
+
+        [Command("ssbu mega man")]
+        public async Task ssbumegaman()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/4/46/Mega_Man_SSBU.png/250px-Mega_Man_SSBU.png");
+
+        }
+        [Command("ssbu pac-man")]
+        public async Task ssbupacman()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/03/Pac-Man_SSBU.png/250px-Pac-Man_SSBU.png");
+
+        }
+        [Command("ssbu mii brawler")]
+        public async Task ssbumiibrawler()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/e/e4/Mii_Brawler_SSBU.png/250px-Mii_Brawler_SSBU.png");
+
+        }
+        [Command("ssbu mii swordfighter")]
+        public async Task ssbumiisword()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/fa/Mii_Swordfighter_SSBU.png/250px-Mii_Swordfighter_SSBU.png");
+
+        }
+        [Command("ssbu daisy")]
+        public async Task ssbudaisy()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/21/Daisy_SSBU.png/250px-Daisy_SSBU.png");
+
+        }
+        [Command("ssbu piranha plant")]
+        public async Task ssbupiranhaplant()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/250px-Piranha_Plant_SSBU.png");
+
+        }
+        [Command("ssbu king k. rool")]
+        public async Task ssbukingkrool()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/b/b6/King_K._Rool_SSBU.png/250px-King_K._Rool_SSBU.png");
+
+        }
+        [Command("ssbu ridley")]
+        public async Task ssburidley()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/27/Ridley_SSBU.png/250px-Ridley_SSBU.png");
+
+        }
+        [Command("ssbu dark samus")]
+        public async Task ssbudarksamus()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/a/a6/Dark_Samus_SSBU.png/250px-Dark_Samus_SSBU.png");
+
+        }
+        [Command("ssbu inkling")]
+        public async Task ssbuinkling()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/2e/Inkling_SSBU.png/242px-Inkling_SSBU.png");
+
+        }
+        [Command("ssbu ken")]
+        public async Task ssbuken()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/f6/Ken_SSBU.png/250px-Ken_SSBU.png");
+
+        }
+        [Command("ssbu simon")]
+        public async Task ssbusimon()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/9/95/Simon_SSBU.png/250px-Simon_SSBU.png");
+
+        }
+
+        [Command("ssbu richter")]
+        public async Task ssburichter()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c2/Richter_SSBU.png/250px-Richter_SSBU.png");
+
+        }
+        [Command("ssbu joker")]
+        public async Task ssbujoker()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/5/5c/Joker_SSBU.png/250px-Joker_SSBU.png");
+
+        }
+        [Command("ssbu bowser jr.")]
+        public async Task ssbubowserjr()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/2b/Bowser_Jr._SSBU.png/270px-Bowser_Jr._SSBU.png");
+
+        }
+        [Command("ssbu rosalina")]
+        public async Task ssburosalina()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/1/16/Rosalina_%26_Luma_SSBU.png/250px-Rosalina_%26_Luma_SSBU.png");
+
+        }
+        [Command("ssbu yoshi")]
+        public async Task ssbuyoshi()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/250px-Yoshi_SSBU.png");
+
+        }
+        [Command("ssbu young link")]
+        public async Task ssbuyl()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/8a/Young_Link_SSBU.png/250px-Young_Link_SSBU.png");
+
+        }
+        [Command("ssbu ganondorf")]
+        public async Task ssbuganondorf()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/9/91/Ganondorf_SSBU.png/250px-Ganondorf_SSBU.png");
+
+        }
+        [Command("ssbu toon link")]
+        public async Task ssbutoonlink()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/File:Toon_Link_SSBU.png");
+
+        }
+        [Command("ssbu wolf")]
+        public async Task ssbuwolf()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/8a/Wolf_SSBU.png/250px-Wolf_SSBU.png");
+
+        }
+        [Command("ssbu falco")]
+        public async Task ssbufalco()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/80/Falco_SSBU.png/250px-Falco_SSBU.pnge");
+
+        }
+        [Command("ssbu fox")]
+        public async Task ssbufox()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/2f/Fox_SSBU.png/250px-Fox_SSBU.pnge");
+
+        }
+        [Command("ssbu ice climbers")]
+        public async Task ssbuiceclimbers()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/1/12/Ice_Climbers_SSBU.png/250px-Ice_Climbers_SSBU.png");
+
+        }
+        [Command("ssbu marth")]
+        public async Task ssbumarth()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/e/e9/Marth_SSBU.png/250px-Marth_SSBU.png");
+
+        }
+        [Command("ssbu roy")]
+        public async Task ssburoy()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/9/9d/Roy_SSBU.png/250px-Roy_SSBU.png");
+
+        }
+        [Command("ssbu pit")]
+        public async Task ssbupit()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/38/Pit_SSBU.png/250px-Pit_SSBU.pngo");
+
+        }
+        [Command("ssbu palutena")]
+        public async Task ssbupalutena()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/6/6b/Palutena_SSBU.png/250px-Palutena_SSBU.png");
+
+        }
+        [Command("ssbu dark pit")]
+        public async Task ssbudarkpit()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/09/Dark_Pit_SSBU.png/250px-Dark_Pit_SSBU.png");
+
+        }
+        [Command("ssbu little mac")]
+        public async Task ssbulm()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/5/53/Little_Mac_SSBU.png/250px-Little_Mac_SSBU.png");
+
+        }
+        [Command("ssbu shulk")]
+        public async Task ssbushulk()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/0f/Shulk_SSBU.png/250px-Shulk_SSBU.png");
+
+        }
+        [Command("ssbu duck hunt")]
+        public async Task ssbuduckhunt()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/d/d8/Duck_Hunt_SSBU.png/250px-Duck_Hunt_SSBU.png");
+
+        }
+        [Command("ssbu ryu")]
+        public async Task ssburyu()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/6/61/Ryu_SSBU.png/250px-Ryu_SSBU.png");
+
+        }
+        [Command("ssbu cloud")]
+        public async Task ssbucloud()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/b/b3/Cloud_SSBU.png/250px-Cloud_SSBU.png");
+
+        }
+        [Command("ssbu bayonetta")]
+        public async Task ssbubayo()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/7/7c/Bayonetta_SSBU.png/240px-Bayonetta_SSBU.png");
+
+        }
+        [Command("ssbu mii gunner")]
+        public async Task ssbumiigunner()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/e/e5/Mii_Gunner_SSBU.png/250px-Mii_Gunner_SSBU.png");
+
+        }
+        [Command("ssbu incineroar")]
+        public async Task ssbuincineroar()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/c/c4/Incineroar_SSBU.png/250px-Incineroar_SSBU.png");
+
+        }
+        [Command("ssbu chrom")]
+        public async Task ssbuchrom()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/5/57/Chrom_SSBU.png/250px-Chrom_SSBU.png");
+
+        }
+        [Command("ssbu isabelle")]
+        public async Task ssbuisabelle()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/2b/Isabelle_SSBU.png/100px-Isabelle_SSBU.png");
+
+        }
+        [Command("ssbu hero")]
+        public async Task ssbuhero()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/07/Hero_SSBU.png/250px-Hero_SSBU.png");
+
+        }
+        [Command("ssbu banyo & kazooie")]
+        public async Task ssbubk()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/9/97/Banjo_%26_Kazooie_SSBU.png/250px-Banjo_%26_Kazooie_SSBU.png");
+
+        }
+        [Command("ssbu galeem")]
+        public async Task ssbugaleem()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/7/76/Galeem_SSBU.png/300px-Galeem_SSBU.png");
+
+        }
+        [Command("ssbu master hand")]
+        public async Task ssbumh()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/2/2b/Master_Hand_SSBU.png/250px-Master_Hand_SSBU.png");
+
+        }
+        [Command("ssbu giga bowser")]
+        public async Task ssbugb()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/3a/Giga_Bowser_SSBU.png/200px-Giga_Bowser_SSBU.png");
+
+        }
+        [Command("ssbu ggalleom")]
+        public async Task ssbugalleom()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/a/aa/Galleom.jpg/250px-Galleom.jpg");
+
+        }
+        [Command("ssbu rathalos")]
+        public async Task ssburathalos()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/4/48/Rathalos_SSBU.png/200px-Rathalos_SSBU.png");
+
+        }
+        [Command("ssbu dharkon")]
+        public async Task ssbudharkon()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/7/7c/DharkonSpirit.png/250px-DharkonSpirit.png");
+
+        }
+        [Command("ssbu crazy hand")]
+        public async Task ssbuch()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/38/Crazy_Hand_SSBU.png/250px-Crazy_Hand_SSBU.png");
+
+        }
+        [Command("ssbu marx")]
+        public async Task ssbumarxm()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/7/7e/Marx.png/120px-Marx.png");
+
+        }
+        [Command("ssbu ganon")]
+        public async Task ssbuganon()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/0/01/Ganon_SSBU.png/250px-Ganon_SSBU.png");
+
+        }
+        [Command("ssbu dracula")]
+        public async Task ssbdracula()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/3/33/Dracula_Phase_1_SSBU.png/162px-Dracula_Phase_1_SSBU.png");
+
+        }
+        [Command("ssbu metal face")]
+        public async Task ssbumetalface()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/8/8d/MetalFaceArtwork.jpg/275px-MetalFaceArtwork.jpg");
+
+        }
+        [Command("ssbu yellow devil")]
+        public async Task ssbuyd()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/4/4a/Yellowdevil.jpg/300px-Yellowdevil.jpg");
+
+        }
+        [Command("ssbu sark emperor")]
+        public async Task ssbudarkemp()
+        {
+            await ReplyAsync($"https://www.ssbwiki.com/images/thumb/f/fb/Dark_emperor.png/250px-Dark_emperor.png");
+
+        }
+        [Command("Aurora")]
+        public async Task aurora()
+        {
+            await ReplyAsync($"Yin");
+
+        }
+        [Command("Yin")]
+        public async Task yin()
+        {
+            await ReplyAsync($"Aurora");
+
+        }
+        [Command("nintendo slogans")]
+        public async Task nintendoslogans()
+        {
+            await ReplyAsync($"Aurora");
+
+        }
+        [Command("nintendo slogan")]
+        public async Task nintendoslogan()
+        {
+            await ReplyAsync($"Now you're playing with power!");
+
+        }
+        [Command("shigeru miyamoto")]
+        public async Task shigerumiyamoto()
+        {
+            await ReplyAsync($"Video games are bad for you? That's what they said about rock and roll.");
+
+        }
+        [Command("toad says")]
+        public async Task anothercastle()
+        {
+            await ReplyAsync($"Thank you, Mario! But our princess is in another castle!");
+
+        }
+        [Command("reggie")]
+        public async Task reggie()
+        {
+            await ReplyAsync($"My name is Reggie. I'm about kickin' ass, I'm about takin' names, and we're about makin' games");
+
+        }
+        [Command("mario says")]
+        public async Task mariosays()
+        {
+            await ReplyAsync($"It's-a me, Mario!");
+
+        }
+        [Command("youngster says")]
+        public async Task youngstersays()
+        {
+            await ReplyAsync($"I like shorts! They're comfy and easy to wear!");
+
+        }
+        [Command("shigeru miyamoto says")]
+        public async Task smsays()
+        {
+            await ReplyAsync($"Games should be something everybody wants to play.");
+
+        }
+        [Command("end of mario")]
+        public async Task endofmario()
+        {
+            await ReplyAsync($"Thank you so much for to playing my game!");
+
+        }
+        [Command("ssbu waluigi")]
+        public async Task ssbuwaluigi()
+        {
+            await ReplyAsync($"One can only hope.");
+
+        }
+        [Command("stop reset")]
+        public async Task stopreset()
+        {
+            await ReplyAsync($"STOP RESETTIN'! You hear me?!");
+
+        }
+        [Command("hey listen")]
+        public async Task heylisten()
+        {
+            await ReplyAsync($"WE DEMAND ATTENTION AND ATTENTIVE EARS");
+
+        }
+        [Command("super mario galaxy")]
+        public async Task supermariogalaxy()
+        {
+            await ReplyAsync($"Welcome; welcome new galaxy!");
+
+        }
+        [Command("satoru iwata")]
+        public async Task satoruiwata()
+        {
+            await ReplyAsync($"You say you want a Revolution?");
+
+        }
+        [Command("Wii U slogan")]
+        public async Task wiiuslogan()
+        {
+            await ReplyAsync($"How U will play next!");
+
+        }
+        [Command("dangerous")]
+        public async Task dangerous()
+        {
+            await ReplyAsync($"It's dangerous to go alone! Take this.");
+
+        }
+        [Command("jokers")]
+        public async Task jokers()
+        {
+            await ReplyAsync($"Man what a bunch of jokers!");
+
+        }
+        [Command("nintendo ds slogan")]
+        public async Task nintendodslogands()
+        {
+            await ReplyAsync($"Touching is good-a");
+
+        }
+        [Command("stay off")]
+        public async Task stayoff()
+        {
+            await ReplyAsync($"Don't get cooked ... stay off the hook!");
+
+        }
+        [Command("sleeping link")]
+        public async Task sleepinglink()
+        {
+            await ReplyAsync($"Wake up, Link!");
+
+        }
+        [Command("Hhiiyhaa")]
+        public async Task Hhiiyhaa()
+        {
+            await ReplyAsync($"Hhiiyhaa!");
+
+        }
+        [Command("zelda plead")]
+        public async Task zeldaplead()
+        {
+            await ReplyAsync($"I'm going to ask you a favor, sleepyhead. Ever since we were kids, I'd always be the one to wake you up when you slept in. But this time, when all of this is over, will you come to wake me up?");
+
+        }
+        [Command("splatfest")]
+        public async Task splatfest()
+        {
+            await ReplyAsync($"Sometimes the citizens of Inkopolis just wanna party, you know? To satisfy this urge, they throw an event called a Splatfest. To take part in a Splatfest, head to the Pledge Box and pick a team. This is the spot. Don't forget!");
+        }
+[Command("BOI")]
+        public async Task boi2()
+        {
+            await ReplyAsync($"BOI!");
+
+        }
+        [Command("sega saturn")]
+        public async Task segasaturn()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Sega-Saturn.jpg");
+
+        }
+        [Command("turbografx-16")]
+        public async Task turbografx16()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/TurboGrafx-16.jpg");
+
+        }
+        [Command("intellivision")]
+        public async Task segaintellivision()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Intellivision.jpg");
+
+        }
+        [Command("xbox one")]
+        public async Task xboxone()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Xbox-One.jpg");
+
+        }
+        [Command("neo-geo aes")]
+        public async Task neogeoaes()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Neo-Geo.jpg");
+
+        }
+        [Command("ps3")]
+        public async Task ps3()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/PlayStation-3.jpg");
+
+        }
+        [Command("magnavox odyssey")]
+        public async Task magodyssey()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Magnavox-Odyssey.jpg");
+
+        }
+        [Command("sega master system")]
+        public async Task segams()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Sega-Master-System.jpg");
+
+        }
+        [Command("nintendo wii")]
+        public async Task nintendowii()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Nintendo-Wii.jpg");
+
+        }
+        [Command("sega dreamcast")]
+        public async Task segadreamcast()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Sega-Dreamcast.jpg");
+
+        }
+        [Command("ps4")]
+        public async Task ps4()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/PlayStation-4.jpg");
+
+        }
+        [Command("sega genesis")]
+        public async Task segagenesis()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Sega-Genesis.jpg");
+
+        }
+        [Command("xbox 360")]
+        public async Task xbox360()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Xbox-360.jpg");
+
+        }
+        [Command("nintendo 64")]
+        public async Task nintendo64()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Nintendo-64.jpg");
+
+        }
+        [Command("ps2")]
+        public async Task ps2()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/PlayStation-2.jpg");
+
+        }
+        [Command("snes")]
+        public async Task snes()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Super-Nintendo-Entertainment-System.jpg");
+
+        }
+        [Command("atari 2600")]
+        public async Task atari2600()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Atari-2600.jpg");
+
+        }
+        [Command("NES")]
+        public async Task nes()
+        {
+            await ReplyAsync($"https://cdn.hiconsumption.com/wp-content/uploads/2018/03/Nintendo-Entertainment-System.jpg");
+
+        }
+        [Command("nintendo switch")]
+        public async Task nintendoswitch()
+        {
+            await ReplyAsync($"https://www.nintendo.com/content/dam/noa/en_US/hardware/switch/nintendo-switch-neon/gallery/bundle_color_portable%20(1).jpg");
+
+        }
+        [Command("gameboy advance")]
+        public async Task gba()
+        {
+            await ReplyAsync($"https://cdn.shopify.com/s/files/1/1309/0597/products/Midnight-Sky_9b3f765d-6f22-493b-8470-eaa687fd704d_1024x1024.jpg?v=1541000115");
+
+        }
+        [Command("nintendo 3ds")]
+        public async Task threeds()
+        {
+            await ReplyAsync($"https://static-ca.ebgames.ca/images/products/702741/3max.jpg");
+
+        }
+        [Command("cuphead")]
+        public async Task cuphead()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/268910/header.jpg?t=1555602930");
+
+        }
+        [Command("celeste")]
+        public async Task celeste()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/504230/header.jpg?t=1561138300");
+
+        }
+        [Command("super meat boy")]
+        public async Task supermeatboy()
+        {
+            await ReplyAsync($"https://www.hrkgame.com/media/games/.thumbnails/header_oxvaUb6.jpg/header_oxvaUb6-800x500.jpg");
+
+        }
+        [Command("hollow knight")]
+        public async Task hollowknight()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/367520/header.jpg?t=1551301401");
+
+        }
+        [Command("terraria")]
+        public async Task terraria()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg?t=1548954652");
+
+        }
+        [Command("enter the gundeon")]
+        public async Task gundeon()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/311690/header.jpg?t=1561608087");
+
+        }
+        [Command("papers, please")]
+        public async Task paperspls()
+        {
+            await ReplyAsync($"https://hb.imgix.net/a81fbce21d79a1a804a2b41580e5cd46a029d86f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=15c6543f2823275ccfe8cba833d7ce03");
+
+        }
+        [Command("the binding of issac")]
+        public async Task bindingofissac()
+        {
+            await ReplyAsync($"https://steamcdn-a.akamaihd.net/steam/apps/113200/header.jpg?t=1447354527");
+
+        }
+        [Command("don't starve together")]
+        public async Task dontstarvetogether()
+        {
+            await ReplyAsync($"https://d3tg06jbotvai2.cloudfront.net/game_tetiere/upload/gameimage/file/6707.jpeg");
+
+        }
+        [Command("axiom verge")]
+        public async Task axiomverge()
+        {
+            await ReplyAsync($"https://hb.imgix.net/54015c0813b69bd19e7614ddaa98d7fe38979a9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=96eafff33faecb83e3cfd20a0a4d665a");
+
+        }
+        [Command("return of the obra dinn")]
+        public async Task obradinn()
+        {
+            await ReplyAsync($"https://images.gog.com/6d725d2e3ffdab8043e078b6aaa9b0bfd9fc3316d82e4a257735e0bc5dc991f3.jpg");
+
+        }
+        [Command("machinarium")]
+        public async Task machinarium()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/uwZBdWRSBRs/maxresdefault.jpg");
+
+        }
+        [Command("moonlighter")]
+        public async Task moonlighter()
+        {
+            await ReplyAsync($"https://hb.imgix.net/2e320cfc8f963eeec76b277fdcda709b9bf832ff.jpg");
+
+        }
+        [Command("hzd")]
+        public async Task hzd()
+        {
+            await ReplyAsync($"Horizon Zero Dawn");
+
+        }
+
+        [Command("horizon zero dawn")]
+        public async Task horizonzerodawn()
+        {
+            await ReplyAsync($"https://image.redbull.com/rbcom/052/2017-02-27/01ef90f0-d621-4155-8e43-851cd69250e4/0010/1/1500/1000/1/horizon%3Dzero-dawn.jpg");
+
+        }
+        [Command("gow")]
+        public async Task gow()
+        {
+            await ReplyAsync($"God of War");
+
+        }
+        [Command("god of war")]
+        public async Task godofwar()
+        {
+            await ReplyAsync($"https://media.playstation.com/is/image/SCEA/god-of-war-listing-thumb-01-ps4-us-12jun17?$facebook$");
+
+        }
+        [Command("sekiro")]
+        public async Task sekiro()
+        {
+            await ReplyAsync($"Shadows Die Twice$");
+
+        }
+        [Command("sekiro shadows die twice")]
+        public async Task sekirosdt()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/uP8lFi_BibY/maxresdefault.jpg");
+
+        }
+
+
+
+
+
 
 
 
