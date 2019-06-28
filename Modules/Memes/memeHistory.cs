@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeHistory : ModuleBase
     {
         [Command("meme history")]
-        public async Task RektAsync()
+        public async Task memeHistoryAsync()
         {
             string user = " For the big-brainers ";
 

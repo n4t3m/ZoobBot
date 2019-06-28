@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeDiscord : ModuleBase
     {
         [Command("meme discord")]
-        public async Task RektAsync()
+        public async Task memeDiscordAsync()
         {
             string user = " _dank._ ";
 

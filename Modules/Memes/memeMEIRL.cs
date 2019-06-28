@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeMe_irl : ModuleBase
     {
         [Command("meme me_irl")]
-        public async Task RektAsync()
+        public async Task memeMeIRLAsync()
         {
             string user = " _Selfies of the soul_ ";
 

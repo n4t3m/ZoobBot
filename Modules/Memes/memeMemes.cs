@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeMemes : ModuleBase
     {
         [Command("meme normie")]
-        public async Task RektAsync()
+        public async Task memeNormieAsync()
         {
             string user = " The default collection ";
 

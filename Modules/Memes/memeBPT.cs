@@ -12,7 +12,7 @@ namespace ShitpostBot
     public class BPT : ModuleBase
     {
         [Command("meme bpt")]
-        public async Task RektAsync()
+        public async Task memeBPTAsync()
         {
             string user = "*BPT GANG* ";
 

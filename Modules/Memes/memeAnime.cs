@@ -12,7 +12,7 @@ namespace ShitpostBot
     public class memeAnime : ModuleBase
     {
         [Command("meme anime")]
-        public async Task RektAsync()
+        public async Task MemeAnimeAsync()
         {
             string user = " Uwu!~ ";
 

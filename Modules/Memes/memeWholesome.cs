@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeWholesome : ModuleBase
     {
         [Command("meme wholesome")]
-        public async Task RektAsync()
+        public async Task memWholesomeAsync()
         {
             string user = " (> ^-^ )>~~~ <3 ";
 

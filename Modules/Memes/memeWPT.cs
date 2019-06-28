@@ -12,7 +12,7 @@ namespace ShitpostBot
     public class WPT : ModuleBase
     {
         [Command("meme wpt")]
-        public async Task RektAsync()
+        public async Task MemeWPTAsync()
         {
             string user = "*WPT GANG* ";
 

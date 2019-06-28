@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memePCMR : ModuleBase
     {
         [Command("meme pcmr")]
-        public async Task RektAsync()
+        public async Task memePCMRAsync()
         {
             string user = " **PC IS THE BEST** ";
 

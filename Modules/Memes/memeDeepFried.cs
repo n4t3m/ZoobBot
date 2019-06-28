@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeDeepFried : ModuleBase
     {
         [Command("meme deepfried")]
-        public async Task RektAsync()
+        public async Task memeDeepFriedAsync()
         {
             string user = " Memes drowned in the deep fryer. ";
 

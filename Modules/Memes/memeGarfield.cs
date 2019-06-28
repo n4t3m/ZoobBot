@@ -12,7 +12,7 @@ namespace ZoobBot
     public class memeGarfield : ModuleBase
     {
         [Command("meme garfield")]
-        public async Task RektAsync()
+        public async Task memeGarfieldAsync()
         {
             string user = " *I am Sorry Jon*\n ";
 

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ShitpostBot
 {
-    public class memeDiscord : ModuleBase
+    public class memeAwwwDiscord : ModuleBase
     {
         [Command("meme awww")]
         public async Task AwwAsync()
