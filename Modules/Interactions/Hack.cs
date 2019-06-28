@@ -10,7 +10,7 @@ namespace ZoobBot
     public class Hack : ModuleBase
     {
         [Command("hack")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task HackAsync([Remainder] string echo)
         {
             string user = "" + echo + " has been hAcKeD!\n";
 

@@ -12,7 +12,7 @@ namespace ShitpostBot
     public class BirthdayWish : ModuleBase
     {
         [Command("bdaywish")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task BdayWishAsync([Remainder] string echo)
         {
             string user = "Happy Birthday " + echo + " ";
 

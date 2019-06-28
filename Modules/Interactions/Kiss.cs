@@ -10,7 +10,7 @@ namespace ShitpostBot
     public class Kiss : ModuleBase
     {
         [Command("kiss")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task KissAsync([Remainder] string echo)
         {
             string user = "" + echo + " has been kissed! ";
 

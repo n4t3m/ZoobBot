@@ -10,7 +10,7 @@ namespace ZoobBot
     public class Bite : ModuleBase
     {
         [Command("bite")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task BiteAsync([Remainder] string echo)
         {
             string user = "" + echo + " was bitten! :O ";
 

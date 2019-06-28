@@ -12,7 +12,7 @@ namespace ZoobBot
     public class Dance : ModuleBase
     {
         [Command("dance")]
-        public async Task RektAsync()
+        public async Task DanceAsync()
         {
             string user = "You do a *dance*!\n";
 

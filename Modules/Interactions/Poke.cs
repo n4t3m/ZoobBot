@@ -10,7 +10,7 @@ namespace ZoobBot
     public class Poke : ModuleBase
     {
         [Command("poke")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task PokeAsync([Remainder] string echo)
         {
             string user = "" + echo + " just got poked!!!! owo ";
 

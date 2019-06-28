@@ -10,7 +10,7 @@ namespace ShitpostBot
     public class Slap : ModuleBase
     {
         [Command("slap")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task SlapAsync([Remainder] string echo)
         {
             string user = "" + echo + " has been slapped! ";
 

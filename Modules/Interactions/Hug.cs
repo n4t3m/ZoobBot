@@ -10,7 +10,7 @@ namespace ZoobBot
     public class Hug : ModuleBase
     {
         [Command("hug")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task HugAsync([Remainder] string echo)
         {
             string user = "" + echo + " got hugged! <3 uwu ";
 

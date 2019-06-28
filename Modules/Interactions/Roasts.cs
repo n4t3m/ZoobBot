@@ -11,7 +11,7 @@ namespace ShitpostBot
     {
         [Command("roast")]
         [Alias("insult")]
-        public async Task RektAsync([Remainder] string echo)
+        public async Task RoastsAsync([Remainder] string echo)
         {
             string user = "" + echo;
 
