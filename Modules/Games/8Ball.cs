@@ -49,7 +49,7 @@ namespace ShitpostBot
                     user += "Yes.";
                     break;
                 case 10:
-                    user += "Signs point to yes.";
+                    user += "The signs point to yes.";
                     break;
                 case 11:
                     user += "Reply hazy, try again.";
@@ -61,7 +61,7 @@ namespace ShitpostBot
                     user += "Better not tell you now.";
                     break;
                 case 14:
-                    user += "Cannot predict now.";
+                    user += "I cannot predict now.";
                     break;
                 case 15:
                     user += "Concentrate and ask again";
@@ -73,7 +73,7 @@ namespace ShitpostBot
                     user += "My reply is no.";
                     break;
                 case 18:
-                    user += "My sources says no.";
+                    user += "My sources say no.";
                     break;
                 case 19:
                     user += "Outlook not so good";
