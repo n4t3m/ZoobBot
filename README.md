@@ -4,11 +4,14 @@
 
 
 ### Zoob Bot
+
 Have you every thought "Hey, how many memes can be crammed into a single discord bot over the course of 4 days?"  Probably not.... But we did! 
 
 Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over **1,000 commands**, yes, **ONE THOUSAND COMMANDS** filled with shitty and cancerous memes, jokes, pop culture references, and games.
 
-Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.
+Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aurora Yin.
+
+**I plan to host this bot although I will be out of town while the results are being tallied. Hopefully my connection does not go down in that time, I doubt that it will.
 
 [![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/cahSZvN) [![BotInvite](https://img.shields.io/badge/Invite%20bot-Click%20here-ff69b4.svg "Invite the bot to your server")](https://discordapp.com/oauth2/authorize?client_id=592952933327437828&scope=bot&permissions=8)
 
@@ -25,7 +28,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
  10. Open up a command prompt with Administrator permissions (In Windows 10, click the Cortana Search bar on the bottom left hand corner and type Command Prompt, right click on it and click Run as Administrator. 
  11. Open the folder that the bot files were unzipped to. Double click the folder name in the upper bar and copy the file path. 
  12. In the Command Prompt type cd and then paste in the file path. Note: You cannot paste a filepath using Control + V, you HAVE TO RIGHT CLICK AND SELECT PASTE.
- 13. Type dotnet run. 
+ 13. Type <code>dotnet run</code>.
  14. The bot should now run! Once you see the message "patrick is cute" then the bot is starting to initialize. Once the second gateway message is sent, the bot is online! 
  
 
@@ -45,7 +48,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 
 |Games||
 |--|--|
-|!8ball @user| Ask the magic 8ball any question and get a *dank* resposne!|
+|!8ball @user| Ask the magic 8ball any question and get a *dank* response!|
 |!fortune @user| Get a dank fortune from the Zoob himself!|
 |!conch<"question">| The magic conch from Spongebob! Ask it your questions and get responses similar to the cartoon!|
 |!rps <"rock, paper, or scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
@@ -54,7 +57,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 
 |Interactions||
 |-|-|
-|!bdaywish <@user>|wishes the user a happy birthday
+|!bdaywish <@user>|Wishes the user a happy birthday!
 |!bite <@user>|Bites an user!
 |!dab <@user|Dabs on an user!
 |!dance <@user>|You do a dance!
@@ -63,14 +66,14 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!kiss <@usere>|Kiss a user!
 |!lick <@user>|Licks a user!
 |!poke <@user>|Pokes a user!
-|!roast <@user>|Roasts a user
-|!slap <@user>|Slaps a user
-|!say <""> |The bot repeats what you say!
+|!roast <@user>|Roasts a user! (There are ~FIFTY ROASTS!)
+|!slap <@user>|Slaps a user!
+|!say <""> |The bot repeats what you say 
 |!shout <""> |Takes what he user puts into the quatations then replys with what they said but in all capital letters.
 |!whisper <""> |Takes what he user puts into the quatations then replys with what they said but in all lowecase letters.
 |!marrymewith <@user>|Marrys the user with the person specified in the command.
-|!owo <"">|Turns what the user puts in quotations in owo speak. (r->w, l->w)
-|!hola|Says hi to the bot
+|!owo <"">|Turns what the user puts in quotations in *owo* speak. (r->w, l->w)
+|!hola|Say *hola* to Zoob!
 
 |List of SFW Copypastas||
 |-|-|
@@ -190,7 +193,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!common man is
 |!I'm bad on planes
 |!water
-|cactus juice
+|!cactus juice
 |!lose
 |!soleanna
 |!flight
@@ -316,10 +319,10 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!fed
 |!praise
 |!pow
+|!thankyoukanye
 
 |Terminator
 |-
-|!thankyoukanye
 |!hastalavista
 |!illbeback
 |!chopper
@@ -363,6 +366,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!fallenkingdom
 |!takebackthenight
 |!swingsword
+
+|Gungeon
+|-
 |!glitchchest
 |!rainbowchest
 |!blackchest
@@ -372,6 +378,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!brownchest
 |!yeet
 |!1013
+
+|FNAF
+|-
 |!bonnie
 |!purpleguy
 |!freddyfaz
@@ -637,7 +646,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!ass
 |!dust
 
-|Completely Random
+|Simpsons
 |-
 |!hereareyourgrades
 |!bringimplementsofdestruction
@@ -671,19 +680,9 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!icanthearmyselfthink
 |!timetogotowork
 |!ciderorjuice
-|!waluigi
-|!isabelle
-|!banjo
-|!reggie
-|!sakurai
-|!wombocombo
-|!chillin
-|!joycon
-|!hungrybox
 
 |CSGO
 |-
-|!tierlist
 |!juandeag
 |!boostmeister
 |!rushb
@@ -735,7 +734,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!yesoryes
 |!fancy
 |!cheerup
-||!micdrop
+|!micdrop (I know its BTS but shhhh)
 |!heartshaker
 |!likey
 |!fancyyou
@@ -947,7 +946,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!beu
 |!ashley johnson
 |!mattew mercer
-|!past or te future
+|!past or the future
 |!curiosity
 |!lifeguard
 |!123
@@ -962,7 +961,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!this is a pretty good bot
 |!hatebin
 |!business
-|!CharlietheUniicorn
+|!CharlietheUnicorn
 |!Candy mountain
 |!marioyou
 |!luigiyou
@@ -1069,6 +1068,17 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aur
 |!falcon
 |!mewtwo
 |!foxonly
+|!tierlist
+|!waluigi
+|!isabelle
+|!banjo
+|!reggie
+|!sakurai
+|!wombocombo
+|!chillin
+|!joycon
+|!hungrybox
+
 
 |Zelda
 |-
