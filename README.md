@@ -7,7 +7,7 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 
 ###Commands
 
-*When typing out commands exclude <>, as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
+*When typing out commands exclude <> as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
 
 |Info||
 | - | |
