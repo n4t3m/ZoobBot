@@ -21,7 +21,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aur
  3. Unpack and install both of these. 
  4. Restart your computer.
  5. Go to our [Github Repository](https://github.com/NateM135/ZoobBot) and find the Green button that says clone or download. Click it and select Download Zip.
- 6. Extract the contents of the zip to a file explorer of your choosing.
+ 6. Extract the contents of the zip to a folder of your choosing. You will need to know the path to this file later.
  7. Open the Program.cs file in a text editor of your choosing, I suggest [Notepad++](https://notepad-plus-plus.org/).
  8. Find the line Client.LoginAsync, and in the middle parameter after Discord.TokenType.Bot, place your Discord Bot token. If you do not know what a token is, you can search up a guide on Google. I suggest that you use [this guide.](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
  9. Save your Program.cs file and close out of it.
