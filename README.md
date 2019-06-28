@@ -16,16 +16,16 @@ Zoob Bot was developed in the minds of Nathan Melwani, Patrick Aveninto, Jinsu H
 
 *When typing out commands exclude <>, as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
 
-|Info||
-| - | |
+| General Commands| |
+| -- |-- |
 |!botinfo | Provides info about bot.|
-|!binfo | Provides info about bot.|
-|!ping| Checks ZoobBot Ping|
-|!Help| Shows the main commands the bot can use.|
-|!getzoobbot| Shows how to get zoobbot onto your server|
+|!binfo | Provides info about bot!|
+|!ping| Checks ZoobBot Ping!|
+|!help| Shows the main commands the bot can use.|
+|!getzoobbot| Invite Zoob Bot to YOUR SERVER!|
 
 |Games||
-|-|-|
+|--|--|
 |!8ball @user| Ask the magic 8ball any question and get a *dank* resposne!|
 |!fortune @user| Get a dank fortune from the Zoob himself!|
 |!conch<"question">| The magic conch from Spongebob! Ask it your questions and get responses similar to the cartoon!|
