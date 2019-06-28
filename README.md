@@ -2,19 +2,27 @@
 
 ![Discord Hack Week Banner](https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg)
 
+
 ### Zoob Bot
-Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 1000 commands (we aren't sure of the exact number, we lost count a while back) for shitty memes, jokes, and pop culture references.
+Have you every thought "Hey, how many memes can be crammed into a single discord bot over the course of 4 days?"  Probably not.... But we did! 
 
-###Commands
+Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over 1,000 commands filled with shitty and cancerous memes, jokes, pop culture references, and games.
 
-*When typing out commands exclude <> as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
+Zoob Bot was developed in the minds of Nathan Melwani, Patrick Aveninto, Jinsu Hwang, and Aurora Yin.
+
+#### Setup/Install
+
+#### Commands
+
+*When typing out commands exclude <>, as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
 
 |Info||
 | - | |
-|   !info| Provides base information about ZoobBot.  |
-|  !botinfo | Provides info about bot.|
+|!botinfo | Provides info about bot.|
+|!binfo | Provides info about bot.|
 |!ping| Checks ZoobBot Ping|
 |!Help| Shows the main commands the bot can use.|
+|!getzoobbot| Shows how to get zoobbot onto your server|
 
 |Games||
 |-|-|
@@ -22,8 +30,8 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 |!fortune @user| Get a dank fortune from the Zoob himself!|
 |!conch<"question">| The magic conch from Spongebob! Ask it your questions and get responses similar to the cartoon!|
 |!rps <"rock, paper, or scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
-|!ply_rus <@user> <#> |Play Russian Roulette with your friends! Use the command and tag a friend you want to play with as well as a numeber. This number will be used to specify the number of bullets in the chamber of the gun. The higher the number, the smaller the chance you have of being kicked.
-|!hply_rus <@user>|Russian Roulette, although the bot bans you instead of kicking. Due to the destructive nature of this command, there will always be six bullets in the chamber and thus a 1/6 chance of being banned from the server.
+|!ply_rus <@user> <#> |Play Russian Roulette with your friends! Use the command and tag a friend you want to play with as well as a number. This number will be used to specify the number of bullets in the chamber of the gun. The higher the number, the smaller the chance you have of being kicked.
+|!hply_rus <@user>|Russian Roulette, although the bot bans you instead of kicking. Due to the destructive nature of this command, there will always be six bullets in the chamber and thus a 1/6 chance of being banned from the server, and to ensure that people don't spam and ban randos, the command can only be used on the command caller.
 
 |Interactions||
 |-|-|
@@ -43,6 +51,7 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 |!whisper <""> |Takes what he user puts into the quatations then replys with what they said but in all lowecase letters.
 |!marrymewith <@user>|Marrys the user with the person specified in the command.
 |!owo <"">|Turns what the user puts in quotations in owo speak. (r->w, l->w)
+|!hola|Says hi to the bot
 
 |List of SFW Copypastas||
 |-|-|
@@ -59,6 +68,7 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 |-|-|
 |!meme list or !meme directory or !meme|Shows a list of sources you can obtain a random meme from.
 |!meme aww|Displays a random meme orginating from the aww subreddit.
+|!meme anime|Displays a random meme orginating from the anime subreddit.
 |!meme bpt|Displays a random meme orginating from the BPT subreddit.
 |!meme wpt|Displays a random meme orginating from the WPT subreddit.
 |!meme dank|Displays a random meme orginating from the Dank subreddit.
@@ -72,6 +82,8 @@ Zoob Bot is a bot developed during Discord Hack Week 2019 athat features over 10
 |!meme socialanxiety|Displays a random meme orginating from the social anxiety meme subreddit.
 |!meme wholesome|Displays a random meme orginating from the wholesome subreddit.
 |!meme hydrohomies|Displays a random meme orginating from the hydro hommie subreddit.
+
+
 
 
 |Modern Refrences
