@@ -69,8 +69,8 @@ namespace ShitpostBot
             await ReplyAsync($"*Alexa, Play* **DESPACITO**");
         }
 
-        [Command("despacito")]
-        public async Task Despacito()
+        [Command("alexaplaydespacito")]
+        public async Task APDespacito()
         {
             await ReplyAsync($"https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/07/despacito-video-920x584.jpg");
         }
@@ -3046,6 +3046,274 @@ namespace ShitpostBot
             await ReplyAsync($"  https://tenor.com/G5LW.gif    ");
 
         }
+
+        //songs
+
+        [Command("whateverittakes")]
+        public async Task WhateverItTakes()
+        {
+            await ReplyAsync($"https://i.ytimg.com/vi/M66U_DuMCS8/maxresdefault.jpg  ");
+
+        }
+
+        [Command("thisiswhatyoucamefor")]
+        public async Task ThisisWhatYouCameFor()
+        {
+            await ReplyAsync($"https://tenor.com/xMPR.gif   ");
+
+        }
+
+        [Command("Rude")]
+        public async Task Rude()
+        {
+            await ReplyAsync($"https://tenor.com/Pq8t.gif ");
+
+        }
+
+        [Command("havana")]
+        public async Task Havana()
+        {
+            await ReplyAsync($" https://tenor.com/QxD8.gif  ");
+
+        }
+
+        [Command("intheend")]
+        public async Task InTheEnd()
+        {
+            await ReplyAsync($" https://tenor.com/vVDM.gif  ");
+
+        }
+
+        [Command("sorry")]
+        public async Task sorry()
+        {
+            await ReplyAsync($"https://tenor.com/vnzq.gif ");
+
+        }
+
+        [Command("oldtownroad")]
+        public async Task OldTownRoad()
+        {
+            await ReplyAsync($"https://tenor.com/7yK1.gif ");
+
+        }
+
+        [Command("thelazysong")]
+        public async Task TheLazySong()
+        {
+            await ReplyAsync($" https://tenor.com/6wrM.gif  ");
+
+        }
+
+        [Command("WeDontTalkAnymore")]
+        public async Task WeDontTalkAnymore()
+        {
+            await ReplyAsync($"https://tenor.com/HhAS.gif   ");
+
+        }
+
+        [Command("DarkHorse")]
+        public async Task DarkHorse()
+        {
+            await ReplyAsync($"https://tenor.com/IiS9.gif  ");
+
+        }
+
+        [Command("LeanOn")]
+        public async Task LeanOn()
+        {
+            await ReplyAsync($" https://tenor.com/wcSD.gif  ");
+
+        }
+
+        [Command("Closer")]
+        public async Task Closer()
+        {
+            await ReplyAsync($" https://tenor.com/GGic.gif  ");
+
+        }
+
+        [Command("HighHopes")]
+        public async Task HighHopes()
+        {
+            await ReplyAsync($" https://tenor.com/0d1D.gif  ");
+
+        }
+
+        [Command("CountingStars")]
+        public async Task CountingStars()
+        {
+            await ReplyAsync($" https://tenor.com/4fmB.gif  ");
+
+        }
+
+        [Command("stressedout")]
+        public async Task StressedOut()
+        {
+            await ReplyAsync($" https://tenor.com/xGgB.gif  ");
+
+        }
+
+        [Command("badguy")]
+        public async Task BadGuy()
+        {
+            await ReplyAsync($" https://tenor.com/6SB5.gif  ");
+
+        }
+
+        [Command("thunder")]
+        public async Task Thunder()
+        {
+            await ReplyAsync($" https://tenor.com/8ccI.gif  ");
+
+        }
+
+        [Command("Faded")]
+        public async Task Faded()
+        {
+            await ReplyAsync($" https://tenor.com/F6EX.gif  ");
+
+        }
+
+        [Command("7rings")]
+        public async Task sevenrings()
+        {
+            await ReplyAsync($"https://tenor.com/39l2.gif ");
+
+        }
+
+        [Command("Believer")]
+        public async Task Believer()
+        {
+            await ReplyAsync($" https://tenor.com/Mc3g.gif  ");
+
+        }
+
+        [Command("RadioActive")]
+        public async Task Radioactive()
+        {
+            await ReplyAsync($" https://tenor.com/wDpn.gif  ");
+
+        }
+
+        [Command("RatherBe")]
+        public async RatherBe()
+        {
+            await ReplyAsync($"https://tenor.com/o8bG.gif ");
+
+        }
+
+        [Command("maskoff")]
+        public async Task MaskOff()
+        {
+            await ReplyAsync($" https://tenor.com/IpKL.gif  ");
+
+        }
+
+        [Command("wakemeup")]
+        public async Task Wakemeup()
+        {
+            await ReplyAsync($" https://tenor.com/XaUt.gif  ");
+
+        }
+
+        [Command("chandelier")]
+        public async Task Chandelier()
+        {
+            await ReplyAsync($" https://tenor.com/o5zi.gif  ");
+
+        }
+
+        [Command("attention")]
+        public async Task attention()
+        {
+            await ReplyAsync($" https://tenor.com/YRYa.gif  ");
+
+        }
+
+        [Command("heathens")]
+        public async Task Heathens()
+        {
+            await ReplyAsync($" https://tenor.com/yD13.gif  ");
+
+        }
+
+        [Command("allofme")]
+        public async Task AllOfMe()
+        {
+            await ReplyAsync($" https://tenor.com/XBwm.gif  ");
+
+        }
+
+        [Command("treatyoubetter")]
+        public async Task TYB()
+        {
+            await ReplyAsync($" https://tenor.com/x94h.gif  ");
+
+        }
+
+        [Command("stitches")]
+        public async Task Stitches()
+        {
+            await ReplyAsync($" https://tenor.com/8k6A.gif  ");
+
+        }
+
+        [Command("7years")]
+        public async Task sevenyears()
+        {
+            await ReplyAsync($" https://tenor.com/wc3G.gif  ");
+
+        }
+
+        [Command("despacito")]
+        public async Task Despacito()
+        {
+            await ReplyAsync($" https://tenor.com/Jj0V.gif  ");
+
+        }
+
+        [Command("starboy")]
+        public async Task Starboy()
+        {
+            await ReplyAsync($" https://tenor.com/z0V9.gif  ");
+
+        }
+
+        [Command("godsplan")]
+        public async Task Godsplan()
+        {
+            await ReplyAsync($" https://tenor.com/WJ3k.gif  ");
+
+        }
+        [Command("dontletmedown")]
+        public async Task dontletmedown()
+        {
+            await ReplyAsync($"https://tenor.com/Xt4M.gif  ");
+
+        }
+
+        [Command("shapeofyou")]
+        public async Task ShapeofYou()
+        {
+            await ReplyAsync($" https://tenor.com/HktU.gif  ");
+
+        }
+        [Command("hipsdontlie")]
+        public async Task HipsDontLie()
+        {
+            await ReplyAsync($"https://tenor.com/o2ht.gif  ");
+
+        }
+
+        [Command("smooth")]
+        public async Task Smooth()
+        {
+            await ReplyAsync($"*my personal favorite song, if you made it this far, thanks for looking through our bot!\n https://tenor.com/o1qO.gif  ");
+
+        }
+
+
 
 
 
