@@ -1,14 +1,16 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "3fe2dd0c6e5a1d91f8151b0b31729a5cc2d4908b"
+    "signature": "50b77b0d1214846aabf452cce2f7633765c01b63"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "ShitpostBot/1.0.0": {
         "dependencies": {
-          "Discord.Net": "2.1.1"
+          "DSharp.FrameWork.Http": "5.2.80816",
+          "Discord.Net": "2.1.1",
+          "Newtonsoft.Json": "12.0.2"
         },
         "runtime": {
           "ShitpostBot.dll": {}
@@ -37,7 +39,7 @@
       },
       "Discord.Net.Core/2.1.1": {
         "dependencies": {
-          "Newtonsoft.Json": "11.0.2",
+          "Newtonsoft.Json": "12.0.2",
           "System.Collections.Immutable": "1.3.1",
           "System.Interactive.Async": "3.2.0"
         },
@@ -83,6 +85,14 @@
           }
         }
       },
+      "DSharp.FrameWork.Http/5.2.80816": {
+        "runtime": {
+          "lib/net452/DSharp.FrameWork.Http.dll": {
+            "assemblyVersion": "5.2.6802.35410",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyInjection/2.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
@@ -102,11 +112,11 @@
           }
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.2": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "11.0.0.0",
-            "fileVersion": "11.0.2.21924"
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
           }
         }
       },
@@ -252,6 +262,13 @@
       "path": "discord.net.websocket/2.1.1",
       "hashPath": "discord.net.websocket.2.1.1.nupkg.sha512"
     },
+    "DSharp.FrameWork.Http/5.2.80816": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rYSje2V9tUY5A/xn1iRNX54WuYaZbUuyXxHSUngEUsKSq1aT0qOfI+2CMoDMDy7kN+0LleXYyOYapvCYYGedyg==",
+      "path": "dsharp.framework.http/5.2.80816",
+      "hashPath": "dsharp.framework.http.5.2.80816.nupkg.sha512"
+    },
     "Microsoft.Extensions.DependencyInjection/2.0.0": {
       "type": "package",
       "serviceable": true,
@@ -266,12 +283,12 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
     },
-    "Newtonsoft.Json/11.0.2": {
+    "Newtonsoft.Json/12.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
-      "path": "newtonsoft.json/11.0.2",
-      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

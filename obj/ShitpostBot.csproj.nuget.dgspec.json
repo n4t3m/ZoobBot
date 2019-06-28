@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "DSharp.FrameWork.Http": {
+              "target": "Package",
+              "version": "[5.2.80816, )"
+            },
             "Discord.Net": {
               "target": "Package",
               "version": "[2.1.1, )"
@@ -49,6 +53,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
