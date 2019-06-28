@@ -21,7 +21,7 @@ namespace ShitpostBot
                 if (bullet == 1)
                 {
                     var channel = await mention.GetOrCreateDMChannelAsync();
-                    await channel.SendMessageAsync(reason == null ? $"You've been banned from {Context.Guild.Name}." : $"You've been banned from {Context.Guild.Name}.");
+                    await channel.SendMessageAsync(reason == null ? $"You've been banned from {Context.Guild.Name} for losing a game of Russian Roulette." : $"You've been banned from {Context.Guild.Name} for losing a gqame of Russian Roulette.");
                     await Task.Delay(2000);
                     await mention.BanAsync();
 
