@@ -13,7 +13,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aur
 
 **I will be self hosting the bot until Wednesday. You can invite it to a server using the links provided below!**
 
-[![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/cahSZvN) [![BotInvite](https://img.shields.io/badge/Invite%20bot-Click%20here-ff69b4.svg "Invite the bot to your server")](https://discordapp.com/oauth2/authorize?client_id=592952933327437828&scope=bot&permissions=8)
+[![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/AYRbJgT) [![BotInvite](https://img.shields.io/badge/Invite%20bot-Click%20here-ff69b4.svg "Invite the bot to your server")](https://discordapp.com/oauth2/authorize?client_id=592952933327437828&scope=bot&permissions=8)
 
 #### Setup/Install
  1. Download .NET Core Runtime from [here](https://dotnet.microsoft.com/download).
