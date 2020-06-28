@@ -7,13 +7,13 @@
 
 Have you every thought "Hey, how many memes can be crammed into a single discord bot over the course of 4 days?"  Probably not.... But we did! 
 
-Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over **1,000 commands**, yes, **ONE THOUSAND COMMANDS** filled with shitty and cancerous memes, jokes, pop culture references, and games.
+Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over **1,000 commands**, yes, **ONE THOUSAND COMMANDS** filled with fun and cancerous memes, jokes, pop culture references, and games.
 
 Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aurora Yin.
 
-**I will be self hosting the bot until Wednesday. You can invite it to a server using the links provided below!**
-
 [![ServerInvite](https://img.shields.io/badge/Join%20Test%20Server-Click%20here-success.svg "This is where you can test the bot")](https://discord.gg/AYRbJgT) [![BotInvite](https://img.shields.io/badge/Invite%20bot-Click%20here-ff69b4.svg "Invite the bot to your server")](https://discordapp.com/oauth2/authorize?client_id=592952933327437828&scope=bot&permissions=8)
+
+**The buttons above are outdated as the bot is no longer being hosted since the competition is long over.**
 
 #### Setup/Install
  1. Download .NET Core Runtime from [here](https://dotnet.microsoft.com/download).
